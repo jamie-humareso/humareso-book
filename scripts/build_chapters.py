@@ -12,12 +12,19 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Assemble chapters from mapping and units.")
     parser.add_argument("--mapping", default="mapping/chapter_map.yml")
     parser.add_argument("--units", default="build/units_enriched.jsonl")
-    parser.add_argument("--outdir", default="manuscript/chapters")
+    parser.add_argument("--outbase", default="generated", help="Base output directory")
+    parser.add_argument("--book-title", default="Title of Book 1", help="Book title directory")
     args = parser.parse_args()
 
     mapping_path = Path(args.mapping).resolve()
     units_path = Path(args.units).resolve()
-    outdir = Path(args.outdir).resolve()
+
+    def sanitize_dirname(name: str) -> str:
+        # Keep spaces; remove slashes and control chars
+        name = re.sub(r"[\\/:*?\"<>|]", "-", name).strip()
+        return name or "Book"
+
+    outdir = Path(args.outbase).expanduser().resolve() / sanitize_dirname(args.book_title)
     outdir.mkdir(parents=True, exist_ok=True)
 
     # Load units into a dict
@@ -32,8 +39,9 @@ def main() -> None:
         mapping = yaml.safe_load(f)
     for ch in mapping.get("chapters", []):
         title = ch.get("title", f"Chapter {ch.get('chapter','')}")
-        slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
-        out_path = outdir / f"{ch.get('chapter', 0):02d}-{slug}.md"
+        # Filename format: "01 - Name of Chapter.md"
+        clean_title = re.sub(r"[\\/:*?\"<>|]", "-", title).strip()
+        out_path = outdir / f"{ch.get('chapter', 0):02d} - {clean_title}.md"
 
         lines: List[str] = []
         lines.append(f"---")
