@@ -51,10 +51,22 @@ def main() -> None:
         lines.append(f"---\n")
         lines.append(f"# {title}\n")
 
+        def sanitize_comment(s: str) -> str:
+            # Avoid invalid HTML comment sequences
+            s = s.replace("--", "—")
+            return s
+
         for sid in ch.get("sources", []):
             unit = id_to_unit.get(sid)
             if not unit:
                 continue
+            # Insert per-paragraph source comment
+            meta_title = unit.get("post_title", "")
+            meta_date = unit.get("publish_date", "")
+            meta_url = unit.get("post_url", "")
+            meta_id = unit.get("stable_id", "")
+            comment = f"Source: {meta_title} | {meta_date} | {meta_url} | {meta_id}"
+            lines.append(f"<!-- {sanitize_comment(comment)} -->")
             lines.append(unit.get("text_md", ""))
             lines.append("")
 

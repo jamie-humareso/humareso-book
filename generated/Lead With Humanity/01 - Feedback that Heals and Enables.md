@@ -6,154 +6,228 @@ estimated_words: 6045
 
 # Feedback that Heals and Enables
 
+<!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts#p11~6b94ef1f -->
 Let’s take a few moments to check in on our colleagues. This work is hard. Those standing up for others and for ideals need support. Those working hard to build a brand need support. Those trying to improve themselves need support. We can be more committed to that and learn better how to let the effects of hate roll off our backs.
 
+<!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane#p10~05757759 -->
 Perhaps the worst thing that an employee could share about their experience is from the song itself:
 
+<!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance#p09~b8c8a8b6 -->
 Just as I needed my wife to explain her needs and expectations, more than once, so do our staff and teams. Keep the cadence reasonable and your observations astute.
 
+<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave#p07~89da2fc5 -->
 Offer transparency in moderation – Organizations that function fully in transparency – sharing every data point possible – may unintentionally foster fear. When sales fall slightly, or when expenses increase over one month, we might have to handle worries from the team. This is not to say that transparency is bad; actually, quite the opposite. Employees feel more tied to the organization when they have a level of understanding as well as the opportunity to ask deeper questions. Allow for that while keeping considerate of how much data is going out.
 
+<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove#p04~e0043190 -->
 Walking in holistically prepared for that interview (throughout the whole process, actually) is likely the best way to avoid a sensory-biased decision-making process. Have a plan of engagement which includes your perspectives and questions based upon some legwork you’ve done regarding the company’s work, history, reviews, cultural insights, etc. Remember, this is an interview for the organization as much as it is for you.
 
+<!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals#p01~4e431919 -->
 For fans of 30 Rock, Jenna Maroney was the epitome of self-centeredness. She found herself often at an emotional crossroads when her performance on “TGS” was deemed less than stellar by her colleagues, writers or directors. Brilliantly played by Jane Krokowski, Jenna was the pinnacle of conceit, self-absorption and frailty. In many ways, Jenna is all of us when it comes to critique.
 
+<!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession#p05~0177df4a -->
 Stay interviews may very well be a good first step within your organization. Asking employees who are working why they have chosen to stay at the company will illuminate mood, successes, failings, culture vibe and professional development. There’s gold in them there hills! Ask good questions. Don’t fear the answers. If there’s a want expressed by an employee, it’s better for it to be shared and addressed. If it cannot happen, after consideration, share that. To know means that I’m not guessing. I’m not wasting time mulling over what the company might or might not do. I have clarity and can make an educated choice as a result.
 
+<!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity#p03~88674617 -->
 In our workplaces, we see this in the most simplistic of situations. Teams trying to work together can quickly dissolve into factions around whose ideas are better and who has the political clout to get things done. Conditions are placed upon acceptance and engagement. Relationships can be more about popularity rather than people. And as we all know, popularity wanes. It’s something that has to be kept up with regularly and is built on conditions. The negative impact to innovation, high performance and retention is real and affects the cultural construct for an organization.
 
+<!-- Source: Let’s Get Serious: Relevance over Trendiness | 2022-09-30 15:53:24 | https://blog.humareso.com/lets-get-serious-relevance-over-trendiness | lets-get-serious-relevance-over-trendiness#p03~258c91dc -->
 How do we get serious?
 
+<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments#p06~bc6ce7b0 -->
 Whether our role is business owner, manager or human resources, we have the same privilege. Think about how often meetings you attend are in response to what’s not working or who’s not working. We spend the time putting punitive measures into place, often with a longing for a more proactive approach in the future. We genuinely hope for that to happen, but the rut we get in is hard to dig out from, sometimes years-deep in its making. You are the one who gets to turn the attention on what will help our staff flourish.
 
+<!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations#p03~3dd342c1 -->
 Yet, for as upsetting as this is, organizational leadership regularly deals with this. It’s regrettably commonplace in some of your companies. The faux friendships are in place as a mechanism to hold onto a position or to be seen as a “team player” for the next advancement. The work you do matters, for sure, but the politics of relationship cannot be ignored. There are companies that promote trust as a value despite the activity that shows otherwise. Have you fallen into that pattern?
 
+<!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise#p14~f0e64eb6 -->
 Learn more about our services!
 
+<!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts#p02~126e3036 -->
 Hate. Just typing that word stops me in my tracks.
 
+<!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane#p07~dcf31fdd -->
 Don’t let Mr. Cellophane fool you. He’s a hard worker. He shows up on time and is consistent in his work. He is dependable as the day is long. He is Joe, Melanie, Diego and Shawna. He is every employee whose name you are struggling to recall. You know that person who’s been here for five years? Yes, that one.
 
+<!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance#p07~3ec68a94 -->
 Feedback isn’t just a top-down exercise, either. Encourage employees to ask questions and provide input. Their perspectives can help identify areas where expectations might still be unclear. Collaborative conversations create a culture of mutual respect and shared responsibility for success. It’s a two-way street!
 
+<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave#p06~5a2aa436 -->
 Encourage innovation – Too often we’re too busy. We cannot take the time to foster creativity because we have deadlines or quotas to meet. We keep our eyes on only the finish line, and we fail to meet people in innovative advancements. Your teams have ideas. They want processes to be better. They see the value in what they are doing, but they also want to influence what they are doing. They want to make a change for the good of the whole, truly. We may be tempted to minimize creativity because of that one time it didn’t work out. Innovation leaves room for failure so don’t be surprised that you will have to try again. It is not a reason to stop pushing forward.
 
+<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove#p01~f6a77d36 -->
 !Humareso Blog Posts-15-LoveI had the chance to watch a rerun of The Love Boat recently. Yes, Pluto TV and I are good friends. I get to watch lots of old programming (The Price is Right – The Barker Years is a particular treat), and I often have an episode with the Pacific Princess playing on a Sunday afternoon while I prep for the week ahead. The guest stars are absolutely amazing. Don’t scoff. Take a peek at the long list of A-listers that rubbed elbows with the D-Listers. On this particular episode, Eddie Mekka played a high school friend of “Julie, Your Cruise Director” (it’s a requirement to say it together) who, within 30 seconds of being on the ship, sees the love of his life. He didn’t speak to her. He hadn’t heard her voice. He just saw her from afar and decided that she was “the one.” And, of course, in true Love Boat fashion, that three-day cruise, after some fumbling and lying, proved his wish to be granted. He and Audrey Landers left the boat with plans to marry. See? Easy.
 
+<!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals#p08~17a53b6b -->
 perceive that I am better than most of my colleagues (which most do), then I will only be satisfied with an “Exceeds Expectations” on an appraisal. An employee needs direction in what is being measured, why it’s being measured, how it’s being measured and for what overall purpose does that vein of work provide. Effectiveness cannot be just for the task, but for the overall goals of the team, division and organization. Effective is moving things forward.
 
+<!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession#p02~6f402c8c -->
 According to The Bureau of Labor and Statistics, most of 2022 saw Quit Rates tripling the Layoff Rate. For instance, in October of 2022, 1.4 million people were laid off, but 4 million people quit their job. We knew in October that a downturn was upon us. The news media was touting the layoffs at Twitter and DoorDash as signs of a tough economy coming home to roost in the US. So, why the brazen disregard for the signs by American workers?
 
+<!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity#p01~e1a27ccb -->
 In The Return of the King, there is a scene at the top of the Orthanc where Saruman affirms the loyalty of Grima Wormtongue to Gandalf far below. Saruman is dismissive of Grima, who is standing there and could speak for himself, and implies that there is nothing that could change the mind of the lowly servant. King Theoden offers to Grima what Saruman cannot – love through forgiveness and in recalling what it means to be part of a community. Theoden reminds Grima that he was once a man of Rohan and can be one again. What Saruman fails to see is that wanting to be treated with love and forgiveness can drive someone who has been without it to extremes. In this case, and aptly done, it leads to Saruman being stabbed by Grima Wormtongue.
 
+<!-- Source: Let’s Get Serious: Relevance over Trendiness | 2022-09-30 15:53:24 | https://blog.humareso.com/lets-get-serious-relevance-over-trendiness | lets-get-serious-relevance-over-trendiness#p04~e0b0062a -->
 * **Slow and Steady test** – Not everything you read should be acted upon. That sentence may have just freed your mind. Even if it’s a promising idea, the bandwidth to tackle every opportunity is limited. Trying to put five good ideas into place at the same time may translate into five bad outcomes. And then trying to resuscitate them later is met with more resistance than you would have faced originally. The uphill climb is steeper, and the blame lies with you.
 * **Grain of Salt test** – Not everything that everyone writes or shares is correct. Boom, facts. Some people like to be trendy because it gets them likes and clicks. Their goals are different from yours. Take declarative and command statements with that grain of salt. Research more than one perspective and know the pros and cons. “Experts” may not have worked in the field for decades (or ever!) so be careful. We have the opportunity, sometimes only once, to sit with our leadership team and share these ideas; if we don’t come prepared, then we can lose credibility quickly.
 * **Truth or Dare test** – Relevance is a slippery slope. It’s not only the sharer of perspectives that is trying to be relevant, but the hearer and doer, too. Sometimes we can feel as though if we don’t do something, we might be seen as yesterday’s news. The action doesn’t make you relevant, but impact does. That’s why tried and true methods can still work and be adopted. The relevance isn’t in the trendiness but in the positive business impact, and that is ALWAYS relevant.
 
+<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments#p04~1316ca21 -->
 Over the last decade, more organizations have put forth sustainability plans as to how they will handle their impact on the world’s environment. And while this is excellent news, with much more work to be done, many of those same organizations have not put enough thought, let alone action plans, into doing the same for the internal environment for which they are responsible. Both need attention, for sure.
 
+<!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations#p08~f4731ec9 -->
 The second step is to ask: What is my company doing to support functionally broken trust amongst its people? If the status quo has deep roots in positional jockeying and backstabbing, then those weapons need to be addressed. Those who wield them today and attack those around them may find that tomorrow puts them on the defensive. It’s a quick switch to a protective posture. Your role involves calling it out, at whatever level you find yourself. Open the door to discuss, address and invoke change. (Some additional thoughts on building healthy trust can be found at:
 
+<!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise#p13~e890ef50 -->
 Read more of our articles!
 
+<!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts#p01~b1e7d1c3 -->
 !Blog Post_Shake It Off (1).png)
 
+<!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane#p01~a58c8c19 -->
 !Humareso Blog Posts-1-Mr. CellophaneMy kids are talented. Obviously.
 
+<!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance#p02~47416fb1 -->
 At work, it’s the same. We overlook how a lack of clear work expectations can lead to frustration, disengagement, and missed opportunities. It is part of our responsibility to ensure that our teams understand not only what’s expected of them but why it matters. Clarity is not a luxury; it’s a necessity!
 
+<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave#p03~6e5557f2 -->
 The economic environment is affecting the confidence that our employees have about moving on. Most feel that it’s necessary to move on as it will likely open doors for higher pay and greater responsibility. There are varying studies showing different results regarding compensation differentiation based on staying or leaving. For instance, a recent analysis done by Sentinel Pay Analytics for an organization with about 23,000 employees showed no difference in pay levels between those who’ve stayed and those who boomeranged back to the company. That’s not the case in all organizations, but banking on it in the current economic state appears too risky.
 
+<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove#p03~a1e5694d -->
 Be honest. Haven’t you walked into an interview or logged onto your video appointment hoping to get “that feeling?” It’s not to say that you don’t care about the work, the community or the structure of the organization. It’s just that you might want to get the butterflies in your belly first.
 
+<!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals#p02~7c69613c -->
 Is my ego so fragile that when I “meet expectations” on a performance appraisal, I sit in full disbelief and disgust in the obvious underappreciation by my employer? For the modern American worker, in particular, you bet your bippy that’s how it is. And it’s been this way for some time.
 
+<!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession#p01~9f7a163e -->
 !Humareso Blog Posts-45It’s a weird time. Yes, I know, there’s always something weird about society, but I am not sure we’ve seen such business realities colliding as we do today. We are on the precipice of an economic recession (if not already entered into it). The degree of severity for this recession is not yet known, but we’ve already seen major organizations, like Amazon and Meta, laying off tens of thousands of workers. In previous years where mass separation numbers like these occurred, employees hunkered down and hoped to keep their current positions. That is not the posture of today.
 
+<!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity#p02~c320e004 -->
 Active, authentic love is tough to come by. For many, love is tethered to condition. Literature and history are replete with these accounts. When we work with people who’ve been conditioned in this manner, which is most, someone must break the chain. The systemic nature of conditional love in relationship is generational. Those deposits run deep which is why our action against that breeding needs to be intentional and consistent.
 
+<!-- Source: Let’s Get Serious: Relevance over Trendiness | 2022-09-30 15:53:24 | https://blog.humareso.com/lets-get-serious-relevance-over-trendiness | lets-get-serious-relevance-over-trendiness#p06~c1d0f04a -->
 Listen, I’m not wearing either of those overalls at this point. And let’s be thankful for that!
 
+<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments#p09~277961a0 -->
 Organizations that build healthy environments are more productive. This is not news, but it is the Achilles heel of many an organization. Likely, attention has been diverted to other things that seem more pressing. Be mindful of the environment being built and how you can be a proactive champion for its construction. Work with other key stakeholders to craft an environment that inspires and provokes people to success.
 
+<!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations#p04~b2eefd0d -->
 This is not about being bleak. It is about recognizing a broken framework. Are you a participant in the brokenness?
 
+<!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise#p15~b12b68bd -->
 Tags:  Business, Compromise, Cooperation, management
 
+<!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts#p05~89d185cc -->
 Individually, that type of correction does not need to be hateful, but it is certainly going to feel unwelcome. The discipline to change can be received as hate, but the fact is that when your organization is traveling down a wrong path, it will be called out. You should be prepared for that.
 
+<!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane#p12~cee033b3 -->
 Let’s not wait for the resignation for us to pay attention to the reliable workers in our companies. Don’t walk by another employee that you haven’t checked in with in months, years, ever.
 
+<!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance#p04~797a09a0 -->
 And we know how much unnecessary conflict arises when team members have differing interpretations of their roles. Managers struggle to communicate expectations and wind up defaulting to presumptions – “They should know how to do their job.” They may know how to do their job, but they may not know how the organization wants it done.
 
+<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave#p02~1fd707ce -->
 And we might be working with some of those “waiters” as well. Over 90% of Gen Z and Millennial employees would like to change jobs this year. The percentage, however, falls dramatically when pushed as to whether they really will.
 
+<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove#p05~5677bfaa -->
 I am in the throws of some hiring now. Truthfully, I am keeping track of the approach. Less than 8% of those I am interviewing ask any questions…at all. I specifically leave time towards the end of the interview to invite the asking of anything about the organization. More than 90% of the time, the interviewee says something like, “Thank you, but I don’t have any questions. I just want to say how excited I am about this opportunity.”
 
+<!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals#p04~7d00001c -->
 Psychologists have been tracking narcissism through surveys of American college students since the late 1970s, and levels of it—often measured as a lack of empathy—have never been higher, according to Sara Konrath, an assistant professor at the University of Michigan’s Research Center for Group Dynamics. “If you look at the levers in society, almost all of them are pushing us towards narcissism,” she says. These levers go beyond Twitter feeds and Facebook pages, which offer endless opportunities for self-admiration. They also include advertising that tells consumers “You’re worth it” and reality-TV shows that turn regular people against each other in a battle for celebrity. (Altman)
 
+<!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession#p07~b85c3cb9 -->
 Paying attention to the economy, job markets, competition and other indicators is our responsibility. This weird time doesn’t mean we should throw out the review of metrics. Look at what is happening but refrain from drawing the straight line that you used to. The results may vary.
 
+<!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity#p05~13c178f2 -->
 You are the one to intervene and work to establish honest, fruitful treatment of persons regardless of “winning” contributions. You are the “plus one” to each person’s daily event of work. Be a great date, so to speak. Be attentive, fun and intentional. Go and lift others up.
 
+<!-- Source: Let’s Get Serious: Relevance over Trendiness | 2022-09-30 15:53:24 | https://blog.humareso.com/lets-get-serious-relevance-over-trendiness | lets-get-serious-relevance-over-trendiness#p01~61d19df0 -->
 Overalls were a trend for a bit in the 1990’s. I had both the Kris Kross shorts version of overalls as well as the seven sizes too big pair of full overalls. Truly, I could have fit another person in there with me (don’t ask if I did…I would have to lie). Naturally, my dance moves while wearing the shorts version of overalls were on fleek. I was complimented for my stylish choices in clothing. Yet, when I look at pictures now of those huge overalls, I struggle to remember if the trend was ever attractive.
 
+<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments#p03~4975e5ef -->
 Isn’t that, in some ways, how we ought to approach the habitats we build in our organizations? Of course, the suggestion that employees are in captivity is not the same (though I know some of you feel that way!), but rather think of it as crafting pathways for health amongst our teams by being intentional regarding the environment.
 
+<!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations#p09~501e0cec -->
 It is sad to watch a group of people live in such mistrust of one another. Backbiting is exhausting. Wearing masks to hide true feelings affects mental health. Why would anyone need to live like this? It’s okay for us to disconnect the mechanisms and change the construct. If, ultimately, it didn’t work out for DeNiro’s tough guy, how could we stand a chance? Fuggedaboutit.
 
+<!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise#p01~5fad4035 -->
 Gridlock has stymied countless organizations, governments and relationships. The unwavering “dig-in” of sides or individuals where blockades are erected to show how much certain ideas and position matter.  And to be fair, some of these blockades do matter. Values are real and ought to cause both protective and assertive action. The people will rise, hopefully, ready to compromise.
 
+<!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts#p10~e350a859 -->
 This blog is a tough one to write. I tend to operate with a glass-half-full mentality. I don’t want to give hate more press than it already has. But there are real people who are falling apart. I am seeing and hearing accounts of these attacks online, including DMs to their bosses, colleagues, and yes, even to their adult children.
 
+<!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane#p02~3dc3d137 -->
 All throughout their childhoods, there were marked opportunities for greatness and future renown. Now, I know that every parent thinks this, but they’re wrong. My kids were the best (says every parent). My son was destined for MLB, my eldest daughter was going to be the next Matisse, and my youngest daughter was Broadway-bound. Look, I had great expectations.
 
+<!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance#p05~a141792e -->
 When expectations are vague, employees may also inadvertently focus their efforts on tasks that aren’t aligned with organizational goals. This misalignment doesn’t just impact individual performance - it affects the team and the company’s bottom line. Clear expectations eliminate this ambiguity. Sit and talk to your staff. Share what is needed for success.
 
+<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave#p08~7dcdc487 -->
 It's not too late to keep some people who may be thinking about a move, delayed as it may be. The current economy might give organizations a false sense of security. You may not be doing as well as you think just because turnover is down. The economic stagnation, presidential election, high inflation, and other considerations could be affecting the status quo nature of employee retention.
 
+<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove#p07~7b4877aa -->
 This prep work will balance out the emotional desire to “just know” that this is the right place for your next role. There is nothing wrong with enjoying a stroll around the deck in the moonlight while wearing a chiffon gown. However, the engine room, the laundry room and the staff quarters are just as important to get a true view if you’re planning on investing yourself on that ship.
 
+<!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals#p10~2c978f40 -->
 However, if there are tasks that do build towards the whole, then have a right metric in place to affirm those contributions. Herein is where the “we’ve always done it this way” attitude can take hold. If someone is performing the same way but is never held accountable to a new system for success measurement, then you should not be upset with that employee. It’s management’s fault. Explain why the completion of that tasks isn’t enough anymore. Teach, train, coach and mentor. Effectiveness is not ready in 24 hours. It’s more a slow cooker when changing previous constructs. Keep the low heat going and stir regularly.
 
+<!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession#p03~5c22625a -->
 Remember when Donnie Azoff (Jonah Hill) in Wolf Of Wall Street quite his job after meeting Jordan Belfort (Leonardo DiCaprio) in a diner and finding out Jordan made $74,000 in a month? Donnie just calls his furniture-selling boss and quits right then and there. He had no idea how the money was going to be made, but he took the risk. But not all employees today are primarily making a jump from their employer because of money.
 
+<!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity#p04~98e2d9f5 -->
 Our job includes smashing these paradigms. Opening the door for true inclusion is not found in pandering. If every voice has value, then how does your organization show that? Of course, not everyone’s ideas can be put into place, nor should they. However, if the win is found in those who have mastered the conditional relationship merry-go-round, then we’ve encouraged shallow, tempered people development. And is something that will not work.
 
+<!-- Source: Let’s Get Serious: Relevance over Trendiness | 2022-09-30 15:53:24 | https://blog.humareso.com/lets-get-serious-relevance-over-trendiness | lets-get-serious-relevance-over-trendiness#p02~0aefe688 -->
 Trendy is not always helpful. It usually isn’t, to be honest. In work, the latest and greatest terms, issues and supposed chasms can serve as a distraction to an organization. We may run around chasing after those “quiet quitting” or those in the “great reshuffle.” Or we tell ourselves today we must be an inclusive culture but then tomorrow focus on being a best-in-class organization. The ebbing of our attention can show our immaturity and lack of seriousness.
 
+<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments#p01~cce049ab -->
 The Philadelphia Zoo is the oldest zoo in the United States, originally opening as the Philadelphia Zoological Gardens in 1874. And as early as I can remember, I loved the zoo. The smell, not so much, but the overall zoo is amazing. I recall getting my first Zoo Key (big stuff in 1975) which allowed me to turn on the secret recordings of information about certain animals throughout the property. And while these callbox speakers sounded exactly like a teacher from Charlie Brown’s world, I would listen to them over and over again as I canvased every exhibit.
 
+<!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations#p05~260267a0 -->
 In what has become a classic, Meet the Parents explores this concept of the circle of trust directly, and of course, with hilarity. Robert DeNiro is at his over-the-top best as protector and government agent father to Ben Stiller’s neurotic, over-compensating future son-in-law. DeNiro uses trust as a weapon for most of the movie and Stiller works to earn a reprieve from the perceived doubt. If it weren’t funny, it would be primarily awkward and frustrating (it might be that for you anyway!).
 
+<!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise#p04~ff62c529 -->
 ### What is Compromise?
 
+<!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts#p07~951bdb83 -->
 And some of you might say, “Well, if they are going to post, then they have to be ready for all the responses – good and bad.” You would be right. You do have to be ready. Where I think we may be off course a bit, though, is when we go for the jugular of that person. If you don’t like the way someone markets their recruiting efforts, then you can banter about philosophies and approaches, but to go after their role as an employee for a company, or as a mother, or as a human is too far.
 
+<!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane#p08~f45c6f1b -->
 We need those people. That is not to say, however, that the right response to those coming to mind is to promote them to management. Stop with the singular career ladder. Not every person, in some ways especially a Mr. Cellophane, wants to manage others. There are alternative career ladders that can be activated. We forget this sometimes.
 
+<!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance#p03~bf058f2d -->
 We need to address ambiguity. Ambiguity leads to uncertainty, and uncertainty is a breeding ground for stress. Employees who aren’t sure what’s expected of them often end up second-guessing their work. We don’t need to facilitate lower confidence and poor productivity with our staff.
 
+<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave#p09~6dd7250e -->
 And to be clear, there are still employees leaving their roles now. We can’t look at data so hard and fast in all categories. The trend is not universal, nor should it be. Either way, taking a look at how you might influence a change in direction is worth your time.
 
+<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove#p02~ddbf5f19 -->
 It got me thinking about how we approach career opportunities in a similar fashion. We look to fall in love and to do so quickly.
 
+<!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals#p05~005ef39a -->
 It’s no wonder that, in the American workforce, being average is insulting. Even if the manager delivering the news is not presenting it in a negative tone, the rating of “Meets Expectations” is enough to trigger a poor response. At the onset, a wise manager needs to know what he/she/they are dealing with amongst the team. Whether it’s from historical data or behavioral assessment, a manager should have measured responses to know what’s coming.
 
+<!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession#p04~88ce74b9 -->
 A focus on well-being hit all-time highs last year. After the agony of the COVID-19 pandemic, we saw more people in need of emotional and mental support. The uncertainty of the future, the change in social dynamics, the lack of personal presence and interaction all combined to make things difficult, if not unbearable, for many. That strain forced many people to evaluate why they work where they work and how that work gets done. “Is this what I want to be about?” was a readily asked question, not only internally, but often made its way to stand-up and weekly work meetings. The fear of response by leadership to such a question was no longer a major consideration. And when leaders couldn’t answer that question well, employees left. They still are.
 
+<!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity#p06~7333b5c6 -->
 Yes, it’s tiring. And often, you may be left out in the cold while trying to change the mechanic of conditional love and engagement. Stay the course. Value will be found in the long-term when we can look back on activated change in how people affirm and treat one another. It feels idealistic only because we’ve made it so. We have allowed too much time to elapse without correcting this broken system. That does not make what it ought to be a fairy tale, but rather, a lost art. It’s time to practice it once again.
 
+<!-- Source: Let’s Get Serious: Relevance over Trendiness | 2022-09-30 15:53:24 | https://blog.humareso.com/lets-get-serious-relevance-over-trendiness | lets-get-serious-relevance-over-trendiness#p05~14cce030 -->
 This is why we must be vigilant in our trendiness quotient. New ideas are important. We can’t just do things as we have without testing their impact and validity. But a better way to do things is not the same thing as being trendy. Trendiness becomes unappealing and ineffective in a short amount of time. Your team knows it.
 
+<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments#p02~59b9afa3 -->
 Today, there are a couple of great behind-the-scenes shows on Discovery+ about the Bronx Zoo and the San Diego Zoo. The Director of the Bronx Zoo shares, at the beginning of each episode, that if you ask a kid to draw a picture of a zoo, you’ll likely see animals behind bars. His purpose, as he continues, is to change that perception by building conservations and habitats that will better suit and support the animals there.
 
+<!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations#p02~adf0a5a5 -->
 Recently, I have had the opportunity to listen to a group of people collectively and individually as they work through a conflict. The group gathered based upon one item of tension, but what has come through is that this one item isn’t really the issue. The friction is because there is rampant mistrust within the group. Even those who’ve postured to be simpatico with another have been found to share differently when in a one-on-one conversation. Sub-tier agendas have broken the hope for reconciliation. And now, people are left to merely jockey for empty position. Disheartening to say the least.
 
+<!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise#p12~193e9aaf -->
 Learn more about Humareso!
 
+<!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts#p06~97d66c4f -->
 On the other hand, and more relevant to recent events, we have people feeling torn up by the unwelcome commentary about their work ethic, their work product and their assumed work performance. For some people, posting online about their work is part of their brand and their marketing strategy. The negative can come in response to one of those posts. Some will respond right under the post mocking your perspective and assuming your frame of reference. Some may quote your post on their page to blast you and tell their audience how dumb you are. Some negativity has also come behind the scenes – reaching out to an event planner to dissuade them from working with you, for instance.
 
+<!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane#p11~49a6a101 -->
 > "A human being's made of more than air
 >
 > With all that bulk, you're bound to see him there
@@ -162,32 +236,46 @@ On the other hand, and more relevant to recent events, we have people feeling to
 >
 > Is unimpressive, undistinguished, you know who."
 
+<!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance#p01~0ee9f33e -->
 Marriage is one of the best examples of expectation management. As someone who has traveled this road for almost 27 years, I have messed up and fallen short of that expectation management often (shocking, right?). I thought she would know something I needed or wanted automatically. Guess what? She did not. And I didn’t know hers either. That’s part of the fun of figuring this out. However, it doesn’t always feel like fun. It can be tense, hurtful, and annoying.
 
+<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave#p01~72bd33ea -->
 !Humareso Blog Posts-9-Waiting for a girl like you (1).jpeg)In the movie **Life Itself**, Oscar Issac’s character, Will, has a great line about waiting for the right moment to ask out Abby (Olivia Wilde). He is waiting for the right moment because when he starts this relationship with her, he is all in. There won’t be any turning back. He wants to ask her out at the right moment to set that tone from the onset. He’s waiting with a purpose.
 
+<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove#p06~9f7ea218 -->
 Look, I love that people want to work with the awesome team that’s been assembled (Avengers!), but there should be things about the company that you would want to know. Ask about the organization’s commitment to excellence in its work. Ask about how an equitable environment has been created and fostered (and if it’s not yet there, ask about what the hold up is). Ask about why this role is open. If it’s an additional role, ask how it was determined that this was the right time to add. If it’s a replacement role, ask why the previous employee moved out of the job. Ask about the manner with which investment in the persons of the company are made, not just in benefits (certainly including this, though), but also in areas of competency development, work-life integration, community involvement and the like.
 
+<!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals#p03~d0a5ac22 -->
 As a country, the United States has struggled with its own narcissistic tendencies for decades; Americans think better of themselves, today, by default. Daniel Altman (2011) wrote:
 
+<!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession#p06~5327c013 -->
 We have employees who are bolder about living in authentic ways. That may very well be a new experience for you. If you walk into these situations with an authoritarian approach rather than seeking to understand, you may be met with a wish for you to take this job and shove it. People are less likely to put up with inconsistency and the status quo. They are braver and will take their chances in the job market. Or in the gig economy. Or become an entrepreneur. The options are easier to access.
 
+<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments#p07~fdfb58ab -->
 Environments matter. And lest you think that those roles working from home must be the best setup, think again. Time Magazine published an article with years of research, including the pandemic timeline, to show that those in highly collaborative roles struggled the most with working from home. Their home environment, peppered with some at-home interruptions, made it more difficult to perform to the level desired by both the employee and the employer. Of course, this is not to say that working from the office will solve it all. We know our own experiences that show us how ineffective workplace meetings and collaborative sessions have been. It’s not only about where you sit, but how where you sit has been setup, what resources are available to assist the learning needed, who can support healthy engagement and why it matters.
 
+<!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations#p06~2786854b -->
 Is that how it is for you at work? And for those of you who do your work 100% remotely, do you find that it’s been doable to build the rapport necessary to function in the mechanic of your organization? Over the last year, more employees have been added to companies in a remote capacity that had never been in the office previously. The manner with which trust is built will need to be more intentional with those whom we don’t bump into during the day. Have you made a different effort to be inclusive of those teammates who exist elsewhere?
 
+<!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise#p06~8cbb76aa -->
 ### Compromise in Organizations
 
+<!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts#p09~fc7bbce9 -->
 Secondly, those who post and share their work need to toughen up a bit. If you are going to walk into a Cyber Colosseum, so to speak, then you need your armor on. It is a battle, and hate is the oft-used weapon of your opponent. The battle preparation for you will consist of grounding – what do you believe in and how does that help to identify you? Lean into the truths of who you know you are, despite the random name-calling coming at you. The more you are grounded, the less impactful the hate will be.
 
+<!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane#p05~9eead4f9 -->
 Too often, we have people in our organizations who have similar roles. They are easily overlooked without a word spoken in protest. We count on their quiet fortitude and non-complaining demeanor. We say they are just grateful for the work and don’t want to rock the boat. And while that may be true for some, we honestly have no idea…that is, until they resign.
 
+<!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance#p06~76ce3c37 -->
 And lest you think once is enough, outlining clear expectations doesn’t end with a one-time conversation. Feedback is the bridge between expectations and outcomes. Employees need to know how they’re doing and where they stand. Constructive feedback helps reinforce clarity by highlighting what’s working and addressing areas for improvement.
 
+<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave#p04~60dbf91c -->
 “The number one thing people are craving right now is stability—especially in their workplaces,” said Ella F. Washington, PhD, an organizational psychologist and professor of practice at Georgetown University’s McDonough School of Business. This jives with what many of you are facing. And while employees may have interest in leaving as soon as they feel confident to do so, we don’t have to accept that fate. Organizations can take steps to change that trajectory.
 
+<!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals#p07~fbe2d4bf -->
 Well, that’s why we wind up with narcissistic, overly self-impressed employees. We have not taught them any better. Effective performance management is about the long view with consistent feedback to affirm, rebuke and course correct. Without direction, anyone’s eyes would look to self, first, and then to a comparison to those around. If I
 
+<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments#p05~fcf424af -->
 When I watch the various zookeepers, designers and operations experts work together to build a habitat that will support learning, encourage health and offer safety to the animals to be housed, I am often impressed at the careful planning and hours of teamwork offered to get it done. There is a real passion to build something impactful for the benefit of the recipient. And when the animals are released into the designed area, we have the joy of watching them thrive.
 
 
