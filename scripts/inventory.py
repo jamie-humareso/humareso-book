@@ -25,9 +25,19 @@ def normalize_whitespace(text: str) -> str:
 def strip_html_preserving_text(html: str) -> str:
     if not html:
         return ""
+    # Remove weird formatting blocks (e.g., custom font includes) at the raw text level
+    html = re.sub(r"\{\{[^}]*include_custom_fonts[\s\S]*?\}\}", " ", html, flags=re.I)
+    html = re.sub(r"include_custom_fonts\([^)]*\)", " ", html, flags=re.I)
+
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["script", "style"]):
         tag.decompose()
+    # Drop embedded media
+    for tag in soup(["iframe", "video", "audio", "object", "embed", "noscript"]):
+        tag.decompose()
+    # Unwrap links (keep anchor text, drop href)
+    for a in soup.find_all("a"):
+        a.replace_with(a.get_text(" ", strip=True))
     return str(soup)
 
 
@@ -36,6 +46,12 @@ def convert_html_to_markdown(html: str) -> str:
     md = html_to_md(clean_html, heading_style="ATX")
     # Trim excessive blank lines
     md = re.sub(r"\n{3,}", "\n\n", md)
+    # Remove markdown link syntax and keep text only
+    md = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", md)
+    # Remove bare URLs (http/https)
+    md = re.sub(r"https?://\S+", "", md)
+    # Remove any residual custom font include blocks
+    md = re.sub(r"\{\{[^}]*include_custom_fonts[\s\S]*?\}\}", " ", md, flags=re.I)
     return md.strip()
 
 
