@@ -29,6 +29,15 @@ def strip_html_preserving_text(html: str) -> str:
     html = re.sub(r"\{\{[^}]*include_custom_fonts[\s\S]*?\}\}", " ", html, flags=re.I)
     html = re.sub(r"include_custom_fonts\([^)]*\)", " ", html, flags=re.I)
 
+    # Strip HubSpot/HubL module blocks and templating
+    # Remove entire module blocks with their inner content
+    html = re.sub(r"\{\%\s*module_block[\s\S]*?\%\}[\s\S]*?\{\%\s*end_module_block\s*\%\}", " ", html, flags=re.I)
+    # Remove {% raw %} ... {% endraw %}
+    html = re.sub(r"\{\%\s*raw\s*\%\}[\s\S]*?\{\%\s*endraw\s*\%\}", " ", html, flags=re.I)
+    # Remove any other generic HubL blocks and expressions
+    html = re.sub(r"\{\%[\s\S]*?\%\}", " ", html)
+    html = re.sub(r"\{\{[\s\S]*?\}\}", " ", html)
+
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["script", "style"]):
         tag.decompose()
@@ -52,6 +61,9 @@ def convert_html_to_markdown(html: str) -> str:
     md = re.sub(r"https?://\S+", "", md)
     # Remove any residual custom font include blocks
     md = re.sub(r"\{\{[^}]*include_custom_fonts[\s\S]*?\}\}", " ", md, flags=re.I)
+    # Remove any residual HubL templating
+    md = re.sub(r"\{\%[\s\S]*?\%\}", " ", md)
+    md = re.sub(r"\{\{[\s\S]*?\}\}", " ", md)
     return md.strip()
 
 

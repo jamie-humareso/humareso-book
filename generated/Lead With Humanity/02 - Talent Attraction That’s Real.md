@@ -1,7 +1,7 @@
 ---
 title: Talent Attraction That’s Real
 target_words: 6000
-estimated_words: 6007
+estimated_words: 6030
 ---
 
 # Talent Attraction That’s Real
@@ -88,7 +88,7 @@ What about the question of using AI to recruit and to source? It is possible, bu
 
 It’s as if Mr. Simon is inside my mind on this special day. Ten years ago, Humareso began. I remember sitting at breakfast with a business owner the day after I left my VP role with a national lender. He sat across from me and asked, “So what are you going to do now?” For a moment, I heard that question reverberate in my subconscious. My most honest answer was, “I have no idea.” Instead, what spilled out was a business conviction. Companies did not have all the resources necessary to provide functional organizational drive and impactful cultural change.
 
-{% module\_block module "widget\_4195430c-9e26-4331-abf8-0b1915ddb9a3" %}{% module\_attribute "child\_css" is\_json="true" %}{% raw %}null{% endraw %}{% end\_module\_attribute %}{% module\_attribute "css" is\_json="true" %}{% raw %}null{% endraw %}{% end\_module\_attribute %}{% module\_attribute "label" is\_json="true" %}{% raw %}null{% endraw %}{% end\_module\_attribute %}{% module\_attribute "module\_id" is\_json="true" %}{% raw %}98251788440{% endraw %}{% end\_module\_attribute %}{% module\_attribute "schema\_version" is\_json="true" %}{% raw %}2{% endraw %}{% end\_module\_attribute %}{% module\_attribute "slides" is\_json="true" %}{% raw %}[{"img":{"src":" (9)","width":2403,"height":3089},"hover\_message":"Hover message"},{"img":{"src":" (10)","width":720,"height":540},"hover\_message":"Hover message"},{"img":{"src":" (12)","width":1179,"height":648},"hover\_message":"Hover message"},{"img":{"src":" (11)","width":1968,"height":2624},"hover\_message":"Hover message"},{"img":{"src":" (8)","width":810,"height":1024},"hover\_message":"Hover message"},{"img":{"src":" First, Coffee-1-BFC (8)","width":1280,"height":720},"hover\_message":"Hover message"}]{% endraw %}{% end\_module\_attribute %}{% module\_attribute "tag" is\_json="true" %}{% raw %}"module"{% endraw %}{% end\_module\_attribute %}{% end\_module\_block %}
+The future of work isn’t just about strategy or structure. It’s about storytelling, belonging, recognition, and resilience. So, as I head back to the day-to-day, I’m carrying with me a renewed sense of purpose—and a sticky note on my desk that says: *“Show people what’s possible.”*
 
 Talent attraction is ambiguous. There are a series of questions that might help us to define a path towards it. What will it take to get a candidate to be drawn to what our organization has to offer? Is it compensation? Benefits? Mobility or flexibility? Advancement? Is it all this and more? So, how do you know what to focus on?
 
@@ -108,7 +108,7 @@ How do we get serious?
 
 In the song, “Ten Years” by Paul Simon, he pens:
 
-AI won’t solve everything, but it *will* create new possibilities. The key is to stay curious, keep asking better questions, and be ready to grow into spaces that don’t even exist yet.
+One of the most recurring messages throughout the conference: **show people what’s possible**, not just what to do. Whether it's about building inclusive cultures, adopting new technologies, or bouncing back from setbacks, leaders who lead with transparency and vulnerability are the ones who drive real change.
 
 The language around culture is also a limited approach. It is highly unlikely that a company would advertise: *“Come join us. We have a mediocre culture and we’re barely getting by”* (I don’t suggest this approach). Instead, we see an uninspiring tale of vibrant culture and inclusive opportunities. These messages become noise and lost in the sea of others saying the same. And further, incumbent employees see this and, if it isn’t quite true, double down on the liars that run the organization. That’s not the messaging that you want.
 
@@ -186,13 +186,17 @@ Finding qualified candidates is a constant desire of businesses. It’s like fin
 
 These ten years later, I can look back at the paths worn by travel and faded by the sun. The gains have far outweighed the gaps. The Humareso team has left a mark of richness, integrity and creativity that I could never have achieved without them. I could not express my gratitude any deeper than by sharing my heartfelt and tearful thanks (yes, I am still a crier…). To have been entrusted with the development of so many within our organization so that they, too, can transform others is core to my credo of sacrificial leadership. You have built Humareso with me.
 
-The stories we tell ourselves—about our worth, our future, and our potential—shape everything. And in a field like HR, where we’re often the emotional engine of the organization, learning to process rejection with grace and grit is mission-critical.
+AI won’t solve everything, but it *will* create new possibilities. The key is to stay curious, keep asking better questions, and be ready to grow into spaces that don’t even exist yet.
 
 When Ross decided it was time for him to change his approach to dating (to be more attractive, to break out of his routine/brand), he purchased a pair of leather pants for a date. It is one of the more hilarious episodes of Friends as Ross experiences the discomfort in fit, temperature and flexibility in those pants while on that date. What started out as a stance on being different, relevant, attractive and engaging turned into awkwardness, discomfort, unattractiveness and failing to get him a second date.
 
 We need those people. That is not to say, however, that the right response to those coming to mind is to promote them to management. Stop with the singular career ladder. Not every person, in some ways especially a Mr. Cellophane, wants to manage others. There are alternative career ladders that can be activated. We forget this sometimes.
 
-One of the most recurring messages throughout the conference: **show people what’s possible**, not just what to do. Whether it's about building inclusive cultures, adopting new technologies, or bouncing back from setbacks, leaders who lead with transparency and vulnerability are the ones who drive real change.
+**3. Curiosity Creates New Worlds**
+
+Deepen your interest in those who have made an investment of consistency and “meets expectations” through the years. They have a place within our organizations, and we ought to recognize them. Check in with those who don’t lobby for your time. Encourage coaching conversations focused on process improvement and innovation. Ask specific questions; open-ended questions might foster quick one-word answers from Mr. Cellophane. Seek to know and to understand.
+
+Implicit messaging—what we *do*, not just what we *say*—has far more power than we often realize. If we want employees to be agile, open-minded, and resilient, we have to model that ourselves.
 
 
 ---
