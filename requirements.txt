@@ -3,4 +3,5 @@ markdownify==1.2.0
 python-slugify==8.0.4
 tqdm==4.66.4
 dateparser==1.2.0
+PyYAML==6.0.2
 
