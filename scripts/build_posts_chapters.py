@@ -15,11 +15,17 @@ def main() -> None:
     parser.add_argument("--outbase", default="generated")
     parser.add_argument("--book-title", default="Lead With Humanity (Whole Posts)")
     parser.add_argument("--with-transitions", action="store_true", help="Insert templated transitions between posts")
+    parser.add_argument("--story-years", default="build/story_years.json", help="Optional JSON mapping of post_slug to story_year for ordering")
     args = parser.parse_args()
 
     mapping = yaml.safe_load(Path(args.mapping).read_text(encoding="utf-8"))
     posts = json.loads(Path(args.index).read_text(encoding="utf-8"))
     slug_to_post = {p["post_slug"]: p for p in posts}
+    story_years: Dict[str, int] = {}
+    sy_path = Path(args.story_years)
+    if sy_path.exists():
+        data = json.loads(sy_path.read_text(encoding="utf-8"))
+        story_years = {k: int(v.get("story_year", 0)) for k, v in data.items()}
 
     outdir = Path(args.outbase) / args.book_title
     outdir.mkdir(parents=True, exist_ok=True)
@@ -39,8 +45,15 @@ def main() -> None:
         lines.append("---\n")
         lines.append(f"# {title}\n")
 
+        # Order posts by estimated story year ascending, fallback to publish year
+        ordered_posts = list(ch.get("posts", []))
+        ordered_posts.sort(key=lambda slug: (
+            story_years.get(slug, int(slug_to_post.get(slug, {}).get("year") or 9999)),
+            int(slug_to_post.get(slug, {}).get("year") or 9999)
+        ))
+
         prev_meta = None
-        for post_slug in ch.get("posts", []):
+        for post_slug in ordered_posts:
             meta = slug_to_post.get(post_slug)
             if not meta:
                 continue
