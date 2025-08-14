@@ -6,48 +6,6 @@ estimated_words: 6384
 
 # Joy, Care, and Mental Health
 
-<!-- Source: The Grouch: Getting Rid of the Curmudgeon in You | 2025-03-06 17:43:32 | https://blog.humareso.com/the-grouch-getting-rid-of-the-curmudgeon-in-you | the-grouch-getting-rid-of-the-curmudgeon-in-you -->
-!Humareso Blog Posts-1-The Grouch
-
-The difficulty of being a curmudgeon is deep and wide. As a rapidly-becoming older person, the temptation to slide into the glass being perpetually half-empty becomes more appealing. “Nothing” will ever be as good as it once was, and it is my job to highlight those failures through an unwelcome twelve-point treatise. Now while I don’t actually do this (please God, don’t have me do this!), I am struck by how many do. We look back on what once was with rose-colored glasses, focusing solely on how good life once was (lies, all lies).
-
-I don’t think the intention is to become this. I also know that this is not an exclusive problem to the older generations. Recently, I heard a twenty-something share all the reasons why work sucks, people suck and how if everyone would just see things the way they did, then everything would work out much better for everyone. They were “current” and had their finger on the pulse of what everyone their age wants. Really? Have we really allowed the training wheels to come off the proverbial bike with this level of frustration and ineptitude? We cannot really believe we will make true progress through such a negative, inflexible, unapproachable demeanor.
-
-And lest you think that negativity stymies collaboration and innovation leading to high performing cultures, it does not on its own. It is the entrenched stubbornness that pulls us under. Sometimes negative points of view challenge our approach and we need to take those perspectives into consideration. But inflexible stoicism about the negative truths is unhelpful. We won’t be able to advance our organizations through robust market penetration and creative problem solving with those stubborn curmudgeons blocking the way.
-
-If you’ve slipped into such a dynamic or are living through it in your workplace, here are a few ways to address it:
-
-**Decide you are fallible** – The tension we experience is oft-based upon our self-righteous conviction of infallible information. We know what we know and that is all there is to know. This belief exists in companies even though we say things like “innovation and advancement provide daily learning opportunities.” We don’t really believe it and we don’t act like we believe it. Listen, you don’t know everything. Say that out loud to yourself. Be free from the misdirected burden that you must be correct in every way. Put effort into understanding rather than posturing. In this way, when there is a truth to share, you would be seen as a contributor to success, even when the offering is a negative view of an issue.
-
-**Rally the core** – Who can you be vulnerable with by asking for their view of your inputs? And if you have a compadre who thinks like you, then look for another person. Find a trusted resource who would be honest. And if you have made the environment unsafe because of your negativity, then start by owning that. Ask for forgiveness and then ask for their insight. Let the person know you are seeking to know and that you are endeavoring to change. It is not a guarantee that this person will jump right in to share, so it may take a bit of time before they share as you need them to.
-
-**Practice being winsome and positive** – When you have operated in “curmudgeonness” for a while, your sensors need retraining. They need to be willfully redirected towards engaged relationship building and collaborative advancement. This is not the same as becoming “Susie Sunshine” but rather one who is welcome to participate in group meetings, developmental conversations, and enthusiastic business forecasting. The Oscar the Grouch vibe won’t get you there. Learning how to (re)function in a productive manner that is inclusive of all takes training. If you know someone who could help you reframe, ask them for help here as well.
-
-Today is a great day to stop sitting in your office spouting negativity. It is a great day to change your frowning face and your down-on-the-world mentality. Today is a great day to get up and choose to engage openly and productively and be welcomed to do so. Being a curmudgeon doesn’t look good on anyone; stop trying to bring it into fashion.
-
-Before we move on, let’s connect The Grouch: Getting Rid of the Curmudgeon in You to Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude. We shift from Development to Culture to advance our joy, care, and mental health.
-
-<!-- Source: Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude | 2025-02-18 20:15:21 | https://blog.humareso.com/wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude | wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude -->
-!Humareso Blog Posts-1-Wicked Game
-
-Have you seen that hilarious commercial for the Aunts? Geico has put out some incredible commercials through the years, and this one is no exception. The concept of uninvited houseguests who also happen to be aunts of the homeowners is an approachable setup for the viewer. You may likely have an aunt like that. She comes into the home and comments on everything; it’s like a wicked game for these aunts. Our feelings of inadequacy rise to the surface. Ah, good times. To tap into such emotions, albeit tension and toxicity, brings a shared experience to life. That is the mark of a great commercial. Even though it’s been four years since its initial release, the commercial is still being played currently.
-
-The shared experience of that commercial is fine when it’s at a distance. If we were really living that experience, however, the response would be much different. The annoyance of people pointing out your flaws and missteps would drive you out the door or to commit a felony. In the day-to-day, people in organizations tend to experience this type of interaction in a slow and steady manner. Chipping away at our self-esteem, we may sit despondent hoping that another interaction with colleagues wouldn’t be for another six months.
-
-This cannot be the truth that we allow people to live in.
-
-Fortitude is a great durable skill. Through encounters like these, our employees can learn how to become grounded, to filter out unnecessary distractions and to perform at the level the organization needs. But this is not an excuse for a poor work environment. The competency building needs not to be done on the backs of trauma and toxicity. In other words, the ends do not justify the means.
-
-How else can we build fortitude in our staff? Firstly, expect the challenges and failures to come. Sounds simple, right? However, we don’t usually include in our onboarding protocols expectation management around failure. Work failure is a very real part of the experience at your organization, especially if it is promoting creativity, innovation and change.
-
-By setting the tone for challenges to come, we promote coping mechanism development. How can an employee best train themselves in managing stress and in maintaining a forward-thinking perspective? We can provide resources in mindfulness, in relaxation, in mental acuity and toughness. All these areas can lead to a healthy development of fortitude in our staff.
-
-It’s much easier to build support structures and cultivate adaptability when someone has invested internally in the hard work of fortitude development. Too often, organizations throw mentoring and resource groups at staff without providing a way for the individual to first invest in self. Those structures are difficult to maintain when the foundation is not there, or maybe even worse, if the “aunts” have been allowed to build their foundations.
-
-Today is a great day to remove those Auntie Influencers; they are the ones who are now “expired!”
-
-Before we move on, let’s connect Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude to You Learn - Blind Repetition Does Not Lead to Skill Development. We shift from Culture to Development to advance our joy, care, and mental health.
-
 <!-- Source: You Learn - Blind Repetition Does Not Lead to Skill Development | 2024-10-22 16:00:00 | https://blog.humareso.com/blind-repetition-does-not-lead-to-skill-development | blind-repetition-does-not-lead-to-skill-development -->
 !Humareso Blog Posts-11-Blind Repetition-1We like to mess with things. Joaquin Phoenix delivered a visually stunning, if not uncomfortably magnificent, performance in 2019’s The Joker. He went on to win the Academy Award. His approach to a very well-known villain was fresh, psychologically complex, and disturbingly relatable. And so, what does Hollywood want to do? Capitalize on it with a sequel. Despite the fact that more times than not the original performs better, we press into the popularity of the character(s) and provide a weak storyline hoping to just have people show up out of nostalgia. Think of **Miss Congeniality 2**, **Legally Blonde 2**, **Ace Ventura 2**, any **Planet of the Apes** and more.
 
@@ -64,46 +22,6 @@ We are quick to blame, and very often, it is not the process that gets blamed bu
 Lest you think all sequels are bad, they are not. **The Godfather, Part II** serves as a masterpiece in cinema, a truly remarkable feat considering the original Godfather is epic. The development and deepening of characters and storyline pushed the actors involved to deliver in familiar yet enlarging ways. The value in the original was not merely about its commercial success but in the way it grounded a variety of actors in their craft. They were able to grow, express and evolve in that sequel.
 
 The form is not the goal, but in the developmental, advancing function of multifaceted talent in an emerging story (market). When we merely work on form, we get **The Godfather, Part III**. And I don’t have enough time to talk about that monstrous disappointment…
-
-Before we move on, let’s connect You Learn - Blind Repetition Does Not Lead to Skill Development to Shadow Dancing: Phantom Development Practices Abound. We shift from Development to Development to advance our joy, care, and mental health.
-
-<!-- Source: Shadow Dancing: Phantom Development Practices Abound | 2024-09-04 13:15:00 | https://blog.humareso.com/phantom-development-practices-abound | phantom-development-practices-abound -->
-!Humareso Blog Posts-9-Shadow DancingHave you been fascinated with having special powers? As a kid comic book enthusiast, I would spend hours reading the adventures of various superheroes. When those stories came to life on the small or big screen, I was front and center (still am, truth be told). Steve Austin, The Six Million Dollar Man, was a stud. He was the world’s first bionic man. For those of a certain age, do you remember this mid-1970’s TV Show intro? “Steve Austin. A man barely alive. Gentlemen, we can rebuild him. We have the technology. We have the capability to build the world’s first bionic man…Steve Austin will be that man. We can make him better than he was before. Better…Stronger…Faster.” YES! I was hooked. He was built to be the best.
-
-We may have fallen into a misdirected expectation of such a build for our employees. Obviously, there is no $6,000,000 budget per employee for such development (wouldn’t that be nice?). However, do we expect our employees to behave and produce as if that level of budget has been invested? Now before you shake your head no, think about it. How many times have you thought or said, “Why does {this person} act like this?” or more likely, “What is wrong with {this person}?” Admit it; you have.
-
-What if the truth is that the person is operating at the level of awareness and education given? Our expectation of someone without confirmation of investment to that learning level or self-awareness factor is our fault, not theirs, right? Let’s pretend that I yelled at one of my children (imagine it…never happened…*fingers crossed*) for doing something that, in my opinion, they should have known not to do. Those big, beautiful eyes would look up at me in confusion. And that child would be right if I had not shared previously why to avoid or to act upon something. The knowledge would have been helpful. It may not have kept them from doing the opposite anyway (ah, kids), but that would be a different conversation.
-
-And we may jump to shouting or scaring a child when they go running into the street. We go into quick-response protection mode. That’s not what we’re speaking of here. This is about development. This is about those competencies such as critical thinking, project management, time management and creative approaches. We often have this expectation of our staff with very little investment in their curation.
-
-Our excuses will be that we don’t have a budget or time. We might be okay with the shadow of activity rather than the reality of productivity because of these constraints. Fine, but look at the performance appraisals of various team members. How many have ratings based upon skills, aptitudes and knowledge that the organization has not helped to foster? Be honest. Look at the real investment of learning that has occurred, not just the first-day sharing of user name and password for the LMS.
-
-It is not going to be true that every organization is failing at this. It isn’t. But it’s worth looking at every so often.
-
-For many of us, our organizations are cutting back. Trying to walk into Finance with a list of demands might be met with disdain. This idea of doing more with less is not a new concept to human resource practitioners. We know that we will still need to train and develop staff regardless. Let’s not grow weary of doing so, even if we don’t have that $6 million budget. We can’t build Steve Austin, okay, but we can build Marcy, Tim, Joann and Diego. We can work with what we have more deliberately. We have the technology. Our smartphones alone have more technology in them than the computers used to build the Six Million Dollar Man. Use those to start. We have the capability.
-
-Before we move on, let’s connect Shadow Dancing: Phantom Development Practices Abound to Promises, Promises: The Wooing of Candidates. We shift from Development to Aquisition to advance our joy, care, and mental health.
-
-<!-- Source: Promises, Promises: The Wooing of Candidates | 2023-10-05 15:48:25 | https://blog.humareso.com/wooing-candidates | wooing-candidates -->
-!Humareso Blog Posts-6-PromisesThe wooing of talent takes skill, determination, availability…and a bit of luck. We don’t like that luck part. It’s out of our control. I can make myself available. I can improve my skills in rapport development, full spectrum sourcing, and job marketing. I can put the dedicated time in. But catching someone at the right place, right time and in the right mood? That isn’t in our control.
-
-The default for some recruiting pros and hiring managers is to overpromise in order to manufacture luck. Creative career mapping opportunities are well-delivered but based upon no actual history of offering such options to existing staff. A commitment to knowledge deepening is espoused, but often there is no time or budget committed to this endeavor. Warm affirmations regarding the company values are wrapped like a blanket around the candidate, but the existing staff have yet to find that blanket.
-
-The lies that are told (yes, I am calling them lies) lay a foundation that requires an all-or-nothing response from the candidate. You’ve given them everything you can – money, culture, opportunity promises – and that sets up extremes. If the candidate accepts these conditions and joins the team, only to then find out rather quickly that no such opportunities are ready to be presented (nor may they ever be), then the quick departure occurs. Hiring managers return to scrambling to fill the once-again open role (usually citing the previous person to be a “just didn’t fit” employee) where they will return to promising experiences unlikely to happen.
-
-On the other hand, if the candidate calls the bluff and asks to speak to a current employee or two who are doing the same or similar work (yes, that happens at times), recruiters know they’ve been had. How could they let the candidate ask about these, at best, exaggerated opportunities to the current team? Won’t the staff finish that conversation with the candidate and march directly to the manager to ask when their developmental options will begin? The all-or-nothing is setup and it’s impossible to unwind.
-
-Recruiters and hiring managers need to stand firm in following some basic principles of talent wooing:
-
-First, speak the truth. Offer what is, not what you might hope will be, unless you clearly define the difference. It’s okay to say that, with the potential addition of this particular candidate, we hope to be able to expand our educational investment opportunities. We don’t have a timeline on that, but that is our clear hope, though not present today. Candidates appreciate the truth. They don’t want to feel snookered.
-
-Secondly, anything that is offered in the interviewing process is up for grabs in the accountability game. A candidate should be able to ask when they might expect an update, should they accept a position with the organization, as to when these pieces hoped for are planned or are happening. Open-ended hopes will likely become closed-ended bitterness within the first six months of employment. By establishing timelines for check-in wrapped in accountable practices for delivery, the new employee has a clearly defined expectation to hold you to.
-
-Thirdly, never underestimate the power of a realistic job preview. Offer the candidate to speak to employees who may not be part of the decision-making process. In fact, have the candidate speak to a champion as well as one who may not be overly enamored of the company (don’t tell me they aren’t in your company; they are). This is the most holistic view they can get. By putting those conversations forward as an option in the process, the candidate gets a strong sense that you’re not trying to hide behind something. Proactive transparency is attractive to candidates.
-
-Promises aren’t the enemy; it’s the delivery and the follow-through. Can you confidently stand behind what you have just promised? Is it a real possibility or is it wishful thinking? You know which one it is; don’t lie to yourself, and certainly don’t lie to the candidate.
-
-Before we move on, let’s connect Promises, Promises: The Wooing of Candidates to Wild Wild Life: The Need for Healthy Work Environments. We shift from Aquisition to Inclusion to advance our joy, care, and mental health.
 
 <!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments -->
 The Philadelphia Zoo is the oldest zoo in the United States, originally opening as the Philadelphia Zoological Gardens in 1874. And as early as I can remember, I loved the zoo. The smell, not so much, but the overall zoo is amazing. I recall getting my first Zoo Key (big stuff in 1975) which allowed me to turn on the secret recordings of information about certain animals throughout the property. And while these callbox speakers sounded exactly like a teacher from Charlie Brown’s world, I would listen to them over and over again as I canvased every exhibit.
@@ -124,8 +42,6 @@ Transparently, organizations struggle regularly with creating healthy habitats f
 
 Organizations that build healthy environments are more productive. This is not news, but it is the Achilles heel of many an organization. Likely, attention has been diverted to other things that seem more pressing. Be mindful of the environment being built and how you can be a proactive champion for its construction. Work with other key stakeholders to craft an environment that inspires and provokes people to success.
 
-Before we move on, let’s connect Wild Wild Life: The Need for Healthy Work Environments to Coming Up - Joy at Work, Home and Within Self. We shift from Inclusion to Business to advance our joy, care, and mental health.
-
 <!-- Source: Coming Up - Joy at Work, Home and Within Self | 2022-12-09 15:26:00 | https://blog.humareso.com/coming-up | coming-up -->
 Afresh. That’s the word for 2023. Yup, I’ve decided. Feel free to use the word in sentences throughout the year. “Hmm, I am tired of these clothes. Maybe if I pair things afresh, I won’t hate everything I own in my closet.” “The marriage is stale. The relationship needs some life afresh.” “While I appreciate the dinner you’ve made, looking at your recipes afresh would be a welcome change.” (Let me know how that one goes)
 
@@ -144,8 +60,6 @@ The challenge of joy is that we want to feel it every day. Listen, I love my thr
 Our organizations need us to push for fresh looks. The messaging of 2022 included a push to bring your whole self to work. Some of you might not be excited about that, not because work shouldn’t ask for that (that’s an entirely different blog post!), but because you haven’t been thrilled with who you are. That’s okay. Today is the day to approach yourself afresh. It’s not about resolutions, but it’s about commitment, habits to encourage those commitments and surrounding yourself with people who will love you through those commitments.
 
 The next year is yours. Every year is yours, though. Don’t allow another day to go by without reflection and a path towards patterned change in your life. Yes, work needs you to be your healthiest. Your relationships need that, too. You need you to be your stabilized best. It’s time for life afresh.
-
-Before we move on, let’s connect Coming Up - Joy at Work, Home and Within Self to SHRM22 – A Call for Mental Health Support. We shift from Business to Mental Health to advance our joy, care, and mental health.
 
 <!-- Source: SHRM22 – A Call for Mental Health Support | 2022-06-21 16:35:09 | https://blog.humareso.com/shrm22-a-call-for-mental-health-support | shrm22-a-call-for-mental-health-support -->
 1 in 4. If you were to have a one in four chance of winning the lottery, you would play. Those chances are a no-brainer.
@@ -166,8 +80,6 @@ And while SHRM22 did not disappoint in bringing people back together and remindi
 
 Let us be inspired to build up, to resource up and to frame up healthier workplaces. We are so often the joy-givers in our companies. Today, rise and offer that joy like there’s no tomorrow.
 
-Before we move on, let’s connect SHRM22 – A Call for Mental Health Support to What Have I Done to Deserve This?. We shift from Mental Health to Mental Health to advance our joy, care, and mental health.
-
 <!-- Source: What Have I Done to Deserve This? | 2022-08-19 20:57:42 | https://blog.humareso.com/what-have-i-done-to-deserve-this | what-have-i-done-to-deserve-this -->
 There are three young adults who have eaten my food, slept in my house and spent my money for years. They are tremendous. Those who know me have probably heard me share that no less than 10,000 times. Frank, Olivia and Cassandra are bright, funny, kind and loving. Truly awesome people. However, they are not without their vices. And corporately, don’t let them be in a room when an episode of **Maury** is on. They will watch to the end to see if the man in question is the father of the other guest’s child. They jump around just like the guests and studio audience in disbelief of the results. As the dad watching this, I wind up laughing hysterically, not at the show, but at their responses.
 
@@ -183,8 +95,6 @@ There is often a joke about HR being the counseling department. I understand whe
 
 *(For some additional thoughts on how and why to listen, look back at “*Leave A Tender Moment Alone*”)*
 
-Before we move on, let’s connect What Have I Done to Deserve This? to Love Plus One: Relational Authenticity Produces Positive Results. We shift from Mental Health to Equity to advance our joy, care, and mental health.
-
 <!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity -->
 In The Return of the King, there is a scene at the top of the Orthanc where Saruman affirms the loyalty of Grima Wormtongue to Gandalf far below. Saruman is dismissive of Grima, who is standing there and could speak for himself, and implies that there is nothing that could change the mind of the lowly servant. King Theoden offers to Grima what Saruman cannot – love through forgiveness and in recalling what it means to be part of a community. Theoden reminds Grima that he was once a man of Rohan and can be one again. What Saruman fails to see is that wanting to be treated with love and forgiveness can drive someone who has been without it to extremes. In this case, and aptly done, it leads to Saruman being stabbed by Grima Wormtongue.
 
@@ -197,6 +107,78 @@ Our job includes smashing these paradigms. Opening the door for true inclusion i
 You are the one to intervene and work to establish honest, fruitful treatment of persons regardless of “winning” contributions. You are the “plus one” to each person’s daily event of work. Be a great date, so to speak. Be attentive, fun and intentional. Go and lift others up.
 
 Yes, it’s tiring. And often, you may be left out in the cold while trying to change the mechanic of conditional love and engagement. Stay the course. Value will be found in the long-term when we can look back on activated change in how people affirm and treat one another. It feels idealistic only because we’ve made it so. We have allowed too much time to elapse without correcting this broken system. That does not make what it ought to be a fairy tale, but rather, a lost art. It’s time to practice it once again.
+
+<!-- Source: Promises, Promises: The Wooing of Candidates | 2023-10-05 15:48:25 | https://blog.humareso.com/wooing-candidates | wooing-candidates -->
+!Humareso Blog Posts-6-PromisesThe wooing of talent takes skill, determination, availability…and a bit of luck. We don’t like that luck part. It’s out of our control. I can make myself available. I can improve my skills in rapport development, full spectrum sourcing, and job marketing. I can put the dedicated time in. But catching someone at the right place, right time and in the right mood? That isn’t in our control.
+
+The default for some recruiting pros and hiring managers is to overpromise in order to manufacture luck. Creative career mapping opportunities are well-delivered but based upon no actual history of offering such options to existing staff. A commitment to knowledge deepening is espoused, but often there is no time or budget committed to this endeavor. Warm affirmations regarding the company values are wrapped like a blanket around the candidate, but the existing staff have yet to find that blanket.
+
+The lies that are told (yes, I am calling them lies) lay a foundation that requires an all-or-nothing response from the candidate. You’ve given them everything you can – money, culture, opportunity promises – and that sets up extremes. If the candidate accepts these conditions and joins the team, only to then find out rather quickly that no such opportunities are ready to be presented (nor may they ever be), then the quick departure occurs. Hiring managers return to scrambling to fill the once-again open role (usually citing the previous person to be a “just didn’t fit” employee) where they will return to promising experiences unlikely to happen.
+
+On the other hand, if the candidate calls the bluff and asks to speak to a current employee or two who are doing the same or similar work (yes, that happens at times), recruiters know they’ve been had. How could they let the candidate ask about these, at best, exaggerated opportunities to the current team? Won’t the staff finish that conversation with the candidate and march directly to the manager to ask when their developmental options will begin? The all-or-nothing is setup and it’s impossible to unwind.
+
+Recruiters and hiring managers need to stand firm in following some basic principles of talent wooing:
+
+First, speak the truth. Offer what is, not what you might hope will be, unless you clearly define the difference. It’s okay to say that, with the potential addition of this particular candidate, we hope to be able to expand our educational investment opportunities. We don’t have a timeline on that, but that is our clear hope, though not present today. Candidates appreciate the truth. They don’t want to feel snookered.
+
+Secondly, anything that is offered in the interviewing process is up for grabs in the accountability game. A candidate should be able to ask when they might expect an update, should they accept a position with the organization, as to when these pieces hoped for are planned or are happening. Open-ended hopes will likely become closed-ended bitterness within the first six months of employment. By establishing timelines for check-in wrapped in accountable practices for delivery, the new employee has a clearly defined expectation to hold you to.
+
+Thirdly, never underestimate the power of a realistic job preview. Offer the candidate to speak to employees who may not be part of the decision-making process. In fact, have the candidate speak to a champion as well as one who may not be overly enamored of the company (don’t tell me they aren’t in your company; they are). This is the most holistic view they can get. By putting those conversations forward as an option in the process, the candidate gets a strong sense that you’re not trying to hide behind something. Proactive transparency is attractive to candidates.
+
+Promises aren’t the enemy; it’s the delivery and the follow-through. Can you confidently stand behind what you have just promised? Is it a real possibility or is it wishful thinking? You know which one it is; don’t lie to yourself, and certainly don’t lie to the candidate.
+
+<!-- Source: Shadow Dancing: Phantom Development Practices Abound | 2024-09-04 13:15:00 | https://blog.humareso.com/phantom-development-practices-abound | phantom-development-practices-abound -->
+!Humareso Blog Posts-9-Shadow DancingHave you been fascinated with having special powers? As a kid comic book enthusiast, I would spend hours reading the adventures of various superheroes. When those stories came to life on the small or big screen, I was front and center (still am, truth be told). Steve Austin, The Six Million Dollar Man, was a stud. He was the world’s first bionic man. For those of a certain age, do you remember this mid-1970’s TV Show intro? “Steve Austin. A man barely alive. Gentlemen, we can rebuild him. We have the technology. We have the capability to build the world’s first bionic man…Steve Austin will be that man. We can make him better than he was before. Better…Stronger…Faster.” YES! I was hooked. He was built to be the best.
+
+We may have fallen into a misdirected expectation of such a build for our employees. Obviously, there is no $6,000,000 budget per employee for such development (wouldn’t that be nice?). However, do we expect our employees to behave and produce as if that level of budget has been invested? Now before you shake your head no, think about it. How many times have you thought or said, “Why does {this person} act like this?” or more likely, “What is wrong with {this person}?” Admit it; you have.
+
+What if the truth is that the person is operating at the level of awareness and education given? Our expectation of someone without confirmation of investment to that learning level or self-awareness factor is our fault, not theirs, right? Let’s pretend that I yelled at one of my children (imagine it…never happened…*fingers crossed*) for doing something that, in my opinion, they should have known not to do. Those big, beautiful eyes would look up at me in confusion. And that child would be right if I had not shared previously why to avoid or to act upon something. The knowledge would have been helpful. It may not have kept them from doing the opposite anyway (ah, kids), but that would be a different conversation.
+
+And we may jump to shouting or scaring a child when they go running into the street. We go into quick-response protection mode. That’s not what we’re speaking of here. This is about development. This is about those competencies such as critical thinking, project management, time management and creative approaches. We often have this expectation of our staff with very little investment in their curation.
+
+Our excuses will be that we don’t have a budget or time. We might be okay with the shadow of activity rather than the reality of productivity because of these constraints. Fine, but look at the performance appraisals of various team members. How many have ratings based upon skills, aptitudes and knowledge that the organization has not helped to foster? Be honest. Look at the real investment of learning that has occurred, not just the first-day sharing of user name and password for the LMS.
+
+It is not going to be true that every organization is failing at this. It isn’t. But it’s worth looking at every so often.
+
+For many of us, our organizations are cutting back. Trying to walk into Finance with a list of demands might be met with disdain. This idea of doing more with less is not a new concept to human resource practitioners. We know that we will still need to train and develop staff regardless. Let’s not grow weary of doing so, even if we don’t have that $6 million budget. We can’t build Steve Austin, okay, but we can build Marcy, Tim, Joann and Diego. We can work with what we have more deliberately. We have the technology. Our smartphones alone have more technology in them than the computers used to build the Six Million Dollar Man. Use those to start. We have the capability.
+
+<!-- Source: The Grouch: Getting Rid of the Curmudgeon in You | 2025-03-06 17:43:32 | https://blog.humareso.com/the-grouch-getting-rid-of-the-curmudgeon-in-you | the-grouch-getting-rid-of-the-curmudgeon-in-you -->
+!Humareso Blog Posts-1-The Grouch
+
+The difficulty of being a curmudgeon is deep and wide. As a rapidly-becoming older person, the temptation to slide into the glass being perpetually half-empty becomes more appealing. “Nothing” will ever be as good as it once was, and it is my job to highlight those failures through an unwelcome twelve-point treatise. Now while I don’t actually do this (please God, don’t have me do this!), I am struck by how many do. We look back on what once was with rose-colored glasses, focusing solely on how good life once was (lies, all lies).
+
+I don’t think the intention is to become this. I also know that this is not an exclusive problem to the older generations. Recently, I heard a twenty-something share all the reasons why work sucks, people suck and how if everyone would just see things the way they did, then everything would work out much better for everyone. They were “current” and had their finger on the pulse of what everyone their age wants. Really? Have we really allowed the training wheels to come off the proverbial bike with this level of frustration and ineptitude? We cannot really believe we will make true progress through such a negative, inflexible, unapproachable demeanor.
+
+And lest you think that negativity stymies collaboration and innovation leading to high performing cultures, it does not on its own. It is the entrenched stubbornness that pulls us under. Sometimes negative points of view challenge our approach and we need to take those perspectives into consideration. But inflexible stoicism about the negative truths is unhelpful. We won’t be able to advance our organizations through robust market penetration and creative problem solving with those stubborn curmudgeons blocking the way.
+
+If you’ve slipped into such a dynamic or are living through it in your workplace, here are a few ways to address it:
+
+**Decide you are fallible** – The tension we experience is oft-based upon our self-righteous conviction of infallible information. We know what we know and that is all there is to know. This belief exists in companies even though we say things like “innovation and advancement provide daily learning opportunities.” We don’t really believe it and we don’t act like we believe it. Listen, you don’t know everything. Say that out loud to yourself. Be free from the misdirected burden that you must be correct in every way. Put effort into understanding rather than posturing. In this way, when there is a truth to share, you would be seen as a contributor to success, even when the offering is a negative view of an issue.
+
+**Rally the core** – Who can you be vulnerable with by asking for their view of your inputs? And if you have a compadre who thinks like you, then look for another person. Find a trusted resource who would be honest. And if you have made the environment unsafe because of your negativity, then start by owning that. Ask for forgiveness and then ask for their insight. Let the person know you are seeking to know and that you are endeavoring to change. It is not a guarantee that this person will jump right in to share, so it may take a bit of time before they share as you need them to.
+
+**Practice being winsome and positive** – When you have operated in “curmudgeonness” for a while, your sensors need retraining. They need to be willfully redirected towards engaged relationship building and collaborative advancement. This is not the same as becoming “Susie Sunshine” but rather one who is welcome to participate in group meetings, developmental conversations, and enthusiastic business forecasting. The Oscar the Grouch vibe won’t get you there. Learning how to (re)function in a productive manner that is inclusive of all takes training. If you know someone who could help you reframe, ask them for help here as well.
+
+Today is a great day to stop sitting in your office spouting negativity. It is a great day to change your frowning face and your down-on-the-world mentality. Today is a great day to get up and choose to engage openly and productively and be welcomed to do so. Being a curmudgeon doesn’t look good on anyone; stop trying to bring it into fashion.
+
+<!-- Source: Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude | 2025-02-18 20:15:21 | https://blog.humareso.com/wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude | wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude -->
+!Humareso Blog Posts-1-Wicked Game
+
+Have you seen that hilarious commercial for the Aunts? Geico has put out some incredible commercials through the years, and this one is no exception. The concept of uninvited houseguests who also happen to be aunts of the homeowners is an approachable setup for the viewer. You may likely have an aunt like that. She comes into the home and comments on everything; it’s like a wicked game for these aunts. Our feelings of inadequacy rise to the surface. Ah, good times. To tap into such emotions, albeit tension and toxicity, brings a shared experience to life. That is the mark of a great commercial. Even though it’s been four years since its initial release, the commercial is still being played currently.
+
+The shared experience of that commercial is fine when it’s at a distance. If we were really living that experience, however, the response would be much different. The annoyance of people pointing out your flaws and missteps would drive you out the door or to commit a felony. In the day-to-day, people in organizations tend to experience this type of interaction in a slow and steady manner. Chipping away at our self-esteem, we may sit despondent hoping that another interaction with colleagues wouldn’t be for another six months.
+
+This cannot be the truth that we allow people to live in.
+
+Fortitude is a great durable skill. Through encounters like these, our employees can learn how to become grounded, to filter out unnecessary distractions and to perform at the level the organization needs. But this is not an excuse for a poor work environment. The competency building needs not to be done on the backs of trauma and toxicity. In other words, the ends do not justify the means.
+
+How else can we build fortitude in our staff? Firstly, expect the challenges and failures to come. Sounds simple, right? However, we don’t usually include in our onboarding protocols expectation management around failure. Work failure is a very real part of the experience at your organization, especially if it is promoting creativity, innovation and change.
+
+By setting the tone for challenges to come, we promote coping mechanism development. How can an employee best train themselves in managing stress and in maintaining a forward-thinking perspective? We can provide resources in mindfulness, in relaxation, in mental acuity and toughness. All these areas can lead to a healthy development of fortitude in our staff.
+
+It’s much easier to build support structures and cultivate adaptability when someone has invested internally in the hard work of fortitude development. Too often, organizations throw mentoring and resource groups at staff without providing a way for the individual to first invest in self. Those structures are difficult to maintain when the foundation is not there, or maybe even worse, if the “aunts” have been allowed to build their foundations.
+
+Today is a great day to remove those Auntie Influencers; they are the ones who are now “expired!”
 
 
 ---
