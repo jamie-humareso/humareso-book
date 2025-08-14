@@ -5,19 +5,32 @@ from pathlib import Path
 from typing import Dict, List
 
 
-DEFAULT_BRIEFS = [
-    {
-        "chapter": 1,
-        "title": "Feedback that Heals and Enables",
-        "theme_tags": ["feedback", "leadership", "management"],
-        "target_words": 6000,
-    },
-    {
-        "chapter": 2,
-        "title": "Talent Attraction That’s Real",
-        "theme_tags": ["talent strategy", "hiring", "aquisition", "human resources"],
-        "target_words": 6000,
-    },
+VOLUME1_BRIEFS = [
+    {"chapter": 1,  "title": "Seeing the Person at Work",              "theme_tags": ["human resources","culture","leadership","mental health"], "target_words": 6000},
+    {"chapter": 2,  "title": "Leading Without Ego",                    "theme_tags": ["management","leadership","professionalism"],              "target_words": 6000},
+    {"chapter": 3,  "title": "Feedback that Heals and Enables",        "theme_tags": ["feedback","performance","performance management"],       "target_words": 6000},
+    {"chapter": 4,  "title": "Joy, Care, and Mental Health",           "theme_tags": ["mental health","development","culture"],                 "target_words": 6000},
+    {"chapter": 5,  "title": "Building Cultures You Can Live In",      "theme_tags": ["culture","inclusion","employee engagement"],             "target_words": 6000},
+    {"chapter": 6,  "title": "Relationships and Trust",                 "theme_tags": ["employee relations","cooperation","leadership"],         "target_words": 6000},
+    {"chapter": 7,  "title": "Hard Conversations, Human Outcomes",      "theme_tags": ["professionalism","employee relations","regret"],        "target_words": 6000},
+    {"chapter": 8,  "title": "Purpose, Values, and Work",               "theme_tags": ["business","leadership","human resources"],               "target_words": 6000},
+    {"chapter": 9,  "title": "Resilience without Toxicity",             "theme_tags": ["culture","development"],                                  "target_words": 6000},
+    {"chapter": 10, "title": "The Human Future of Work",                "theme_tags": ["leadership","decision-making","human resources"],        "target_words": 6000},
+]
+
+VOLUME2_BRIEFS = [
+    {"chapter": 1,  "title": "Talent Attraction That’s Real",          "theme_tags": ["talent strategy","aquisition","hiring"],                 "target_words": 6000},
+    {"chapter": 2,  "title": "Hiring Decisions that Stick",            "theme_tags": ["hiring","decision-making","management"],                 "target_words": 6000},
+    {"chapter": 3,  "title": "Onboarding and Early Performance",        "theme_tags": ["performance","performance management","development"],     "target_words": 6000},
+    {"chapter": 4,  "title": "Performance Systems that Elevate",        "theme_tags": ["performance management","performance","feedback"],       "target_words": 6000},
+    {"chapter": 5,  "title": "Coaching and Development that Stick",     "theme_tags": ["development","management","leadership"],                 "target_words": 6000},
+    {"chapter": 6,  "title": "Managers as Multipliers",                 "theme_tags": ["management","leadership","leadership development"],     "target_words": 6000},
+    {"chapter": 7,  "title": "Culture by Design",                        "theme_tags": ["culture","employee engagement","inclusion"],             "target_words": 6000},
+    {"chapter": 8,  "title": "Retention: Keeping the Talent You Won",   "theme_tags": ["management","employee relations","performance"],         "target_words": 6000},
+    {"chapter": 9,  "title": "HR Tech and Tools that Serve People",     "theme_tags": ["tech","business","human resources"],                    "target_words": 6000},
+    {"chapter": 10, "title": "Strategy in Practice",                    "theme_tags": ["talent strategy","business","management"],              "target_words": 6000},
+    {"chapter": 11, "title": "Measuring What Matters",                  "theme_tags": ["performance","decision-making"],                         "target_words": 6000},
+    {"chapter": 12, "title": "What’s Next",                              "theme_tags": ["leadership","talent strategy"],                          "target_words": 6000},
 ]
 
 
@@ -25,6 +38,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Select whole posts for chapters based on tags.")
     parser.add_argument("--index", default="build/john_index.json")
     parser.add_argument("--out", default="mapping/chapter_posts.yml")
+    parser.add_argument("--profile", choices=["v1","v2"], default="v1", help="Volume profile: v1=Lead With Humanity, v2=Build The System")
     args = parser.parse_args()
 
     index_path = Path(args.index).resolve()
@@ -35,8 +49,9 @@ def main() -> None:
     for p in posts:
         p["tags_lc"] = [t.lower() for t in p.get("tags", [])]
 
+    briefs = VOLUME1_BRIEFS if args.profile == "v1" else VOLUME2_BRIEFS
     chapters: List[Dict] = []
-    for brief in DEFAULT_BRIEFS:
+    for brief in briefs:
         theme = set(t.lower() for t in brief["theme_tags"])
         candidates = [p for p in posts if theme & set(p.get("tags_lc", []))]
         # Sort by year desc, then word_count desc to favor newer and substantive
@@ -59,6 +74,9 @@ def main() -> None:
         })
 
     # Minimal YAML writer
+    def quote_str(s: str) -> str:
+        return '"' + s.replace('"', '\\"') + '"'
+
     def to_yaml(obj, indent=0):
         sp = "  " * indent
         if isinstance(obj, dict):
@@ -68,7 +86,10 @@ def main() -> None:
                     lines.append(f"{sp}{k}:")
                     lines.append(to_yaml(v, indent + 1))
                 else:
-                    lines.append(f"{sp}{k}: {v}")
+                    if isinstance(v, str):
+                        lines.append(f"{sp}{k}: {quote_str(v)}")
+                    else:
+                        lines.append(f"{sp}{k}: {v}")
             return "\n".join(lines)
         elif isinstance(obj, list):
             lines = []
@@ -77,7 +98,10 @@ def main() -> None:
                     lines.append(f"{sp}-")
                     lines.append(to_yaml(item, indent + 1))
                 else:
-                    lines.append(f"{sp}- {item}")
+                    if isinstance(item, str):
+                        lines.append(f"{sp}- {quote_str(item)}")
+                    else:
+                        lines.append(f"{sp}- {item}")
             return "\n".join(lines)
         else:
             return f"{sp}{obj}"
