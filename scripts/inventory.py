@@ -111,6 +111,8 @@ def main() -> None:
     index_path = outdir / "john_index.json"
     units_path = outdir / "john_units.jsonl"
     stats_path = outdir / "stats.json"
+    posts_md_dir = outdir / "posts_markdown"
+    posts_md_dir.mkdir(parents=True, exist_ok=True)
 
     # Read CSV and filter rows
     rows: List[Dict[str, str]] = []
@@ -175,6 +177,10 @@ def main() -> None:
                 }
                 units_out.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
+            # Write full-post markdown for whole-article assembly
+            post_md_path = posts_md_dir / f"{post_slug}.md"
+            post_md_path.write_text(md + "\n", encoding="utf-8")
+
             posts_meta.append({
                 "post_slug": post_slug,
                 "post_title": title,
@@ -184,6 +190,7 @@ def main() -> None:
                 "tags": tags,
                 "num_paragraphs": len(paragraphs),
                 "word_count": post_word_count,
+                "markdown_path": str(post_md_path),
             })
 
     # Write index and stats
