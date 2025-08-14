@@ -17,12 +17,10 @@ chapters:
     chapter: 2
     title: "Hiring Decisions that Stick"
     target_words: 6000
-    estimated_words: 6293
+    estimated_words: 4965
     posts:
-      - "is-your-talent-about-to-leave"
       - "performance-appraisals"
       - "quitting-during-a-recession"
-      - "ithinkitslove"
       - "a-different-corner"
       - "wild-wild-life-the-need-for-healthy-work-environments"
       - "voices-carry-relational-mistrust-in-organizations"
@@ -33,143 +31,69 @@ chapters:
     chapter: 3
     title: "Onboarding and Early Performance"
     target_words: 6000
-    estimated_words: 6264
+    estimated_words: 3788
     posts:
       - "the-grouch-getting-rid-of-the-curmudgeon-in-you"
-      - "mr-cellophane"
       - "born-to-run-the-individual-call-to-progress"
-      - "wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude"
       - "what-you-dont-know-expectation-management-and-high-performance"
       - "blind-repetition-does-not-lead-to-skill-development"
       - "phantom-development-practices-abound"
       - "dreams"
-      - "performance-appraisals"
-      - "ithinkitslove"
   -
     chapter: 4
     title: "Performance Systems that Elevate"
     target_words: 6000
-    estimated_words: 4497
+    estimated_words: 734
     posts:
       - "shake-it-off-when-the-haters-hate-really-hurts"
-      - "mr-cellophane"
-      - "born-to-run-the-individual-call-to-progress"
-      - "what-you-dont-know-expectation-management-and-high-performance"
-      - "dreams"
-      - "performance-appraisals"
-      - "ithinkitslove"
   -
     chapter: 5
     title: "Coaching and Development that Stick"
     target_words: 6000
-    estimated_words: 6722
-    posts:
-      - "shake-it-off-when-the-haters-hate-really-hurts"
-      - "the-grouch-getting-rid-of-the-curmudgeon-in-you"
-      - "wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude"
-      - "is-your-talent-about-to-leave"
-      - "blind-repetition-does-not-lead-to-skill-development"
-      - "phantom-development-practices-abound"
-      - "performance-appraisals"
-      - "quitting-during-a-recession"
-      - "ithinkitslove"
-      - "wild-wild-life-the-need-for-healthy-work-environments"
+    estimated_words: 0
+    posts: []
   -
     chapter: 6
     title: "Managers as Multipliers"
     target_words: 6000
-    estimated_words: 6510
-    posts:
-      - "shake-it-off-when-the-haters-hate-really-hurts"
-      - "is-your-talent-about-to-leave"
-      - "performance-appraisals"
-      - "quitting-during-a-recession"
-      - "ithinkitslove"
-      - "wild-wild-life-the-need-for-healthy-work-environments"
-      - "voices-carry-relational-mistrust-in-organizations"
-      - "lets-get-serious-relevance-over-trendiness"
-      - "relational-authenticity"
-      - "do-you-hear-the-people-sing-compromise"
+    estimated_words: 0
+    posts: []
   -
     chapter: 7
     title: "Culture by Design"
     target_words: 6000
-    estimated_words: 1908
-    posts:
-      - "wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude"
-      - "wooing-candidates"
-      - "wild-wild-life-the-need-for-healthy-work-environments"
+    estimated_words: 0
+    posts: []
   -
     chapter: 8
     title: "Retention: Keeping the Talent You Won"
     target_words: 6000
-    estimated_words: 7037
-    posts:
-      - "mr-cellophane"
-      - "born-to-run-the-individual-call-to-progress"
-      - "what-you-dont-know-expectation-management-and-high-performance"
-      - "is-your-talent-about-to-leave"
-      - "dreams"
-      - "performance-appraisals"
-      - "quitting-during-a-recession"
-      - "ithinkitslove"
-      - "wild-wild-life-the-need-for-healthy-work-environments"
-      - "voices-carry-relational-mistrust-in-organizations"
-      - "lets-get-serious-relevance-over-trendiness"
+    estimated_words: 0
+    posts: []
   -
     chapter: 9
     title: "HR Tech and Tools that Serve People"
     target_words: 6000
-    estimated_words: 4678
+    estimated_words: 2303
     posts:
       - "first-steps-to-an-hr-tech-stack"
-      - "quitting-during-a-recession"
-      - "ithinkitslove"
       - "john-baldino-celebrates-ten-years-of-humareso"
       - "coming-up"
-      - "lets-get-serious-relevance-over-trendiness"
-      - "do-you-hear-the-people-sing-compromise"
   -
     chapter: 10
     title: "Strategy in Practice"
     target_words: 6000
-    estimated_words: 7038
-    posts:
-      - "made-you-look-talent-attraction-at-its-finest"
-      - "mr-cellophane"
-      - "workhuman-live-2025-recap-show-people-whats-possible"
-      - "wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude"
-      - "is-your-talent-about-to-leave"
-      - "first-steps-to-an-hr-tech-stack"
-      - "performance-appraisals"
-      - "wooing-candidates"
-      - "quitting-during-a-recession"
-      - "ithinkitslove"
-      - "passive-sourcing"
+    estimated_words: 0
+    posts: []
   -
     chapter: 11
     title: "Measuring What Matters"
     target_words: 6000
-    estimated_words: 3727
-    posts:
-      - "mr-cellophane"
-      - "what-you-dont-know-expectation-management-and-high-performance"
-      - "dreams"
-      - "performance-appraisals"
-      - "ithinkitslove"
-      - "a-different-corner"
+    estimated_words: 0
+    posts: []
   -
     chapter: 12
     title: "What’s Next"
     target_words: 6000
-    estimated_words: 5588
-    posts:
-      - "shake-it-off-when-the-haters-hate-really-hurts"
-      - "made-you-look-talent-attraction-at-its-finest"
-      - "mr-cellophane"
-      - "workhuman-live-2025-recap-show-people-whats-possible"
-      - "wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude"
-      - "is-your-talent-about-to-leave"
-      - "wooing-candidates"
-      - "ithinkitslove"
-      - "passive-sourcing"
+    estimated_words: 0
+    posts: []

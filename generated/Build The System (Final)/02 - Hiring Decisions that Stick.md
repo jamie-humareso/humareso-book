@@ -1,7 +1,7 @@
 ---
 title: Hiring Decisions that Stick
 target_words: 6000
-estimated_words: 6293
+estimated_words: 4965
 ---
 
 # Hiring Decisions that Stick
@@ -154,48 +154,12 @@ We have employees who are bolder about living in authentic ways. That may very w
 
 Paying attention to the economy, job markets, competition and other indicators is our responsibility. This weird time doesn’t mean we should throw out the review of metrics. Look at what is happening but refrain from drawing the straight line that you used to. The results may vary.
 
-<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove -->
-!Humareso Blog Posts-15-LoveI had the chance to watch a rerun of The Love Boat recently. Yes, Pluto TV and I are good friends. I get to watch lots of old programming (The Price is Right – The Barker Years is a particular treat), and I often have an episode with the Pacific Princess playing on a Sunday afternoon while I prep for the week ahead. The guest stars are absolutely amazing. Don’t scoff. Take a peek at the long list of A-listers that rubbed elbows with the D-Listers. On this particular episode, Eddie Mekka played a high school friend of “Julie, Your Cruise Director” (it’s a requirement to say it together) who, within 30 seconds of being on the ship, sees the love of his life. He didn’t speak to her. He hadn’t heard her voice. He just saw her from afar and decided that she was “the one.” And, of course, in true Love Boat fashion, that three-day cruise, after some fumbling and lying, proved his wish to be granted. He and Audrey Landers left the boat with plans to marry. See? Easy.  
-  
-It got me thinking about how we approach career opportunities in a similar fashion. We look to fall in love and to do so quickly.  
-  
-Be honest. Haven’t you walked into an interview or logged onto your video appointment hoping to get “that feeling?” It’s not to say that you don’t care about the work, the community or the structure of the organization. It’s just that you might want to get the butterflies in your belly first.  
-  
-Walking in holistically prepared for that interview (throughout the whole process, actually) is likely the best way to avoid a sensory-biased decision-making process. Have a plan of engagement which includes your perspectives and questions based upon some legwork you’ve done regarding the company’s work, history, reviews, cultural insights, etc. Remember, this is an interview for the organization as much as it is for you.  
-  
-I am in the throws of some hiring now. Truthfully, I am keeping track of the approach. Less than 8% of those I am interviewing ask any questions…at all. I specifically leave time towards the end of the interview to invite the asking of anything about the organization. More than 90% of the time, the interviewee says something like, “Thank you, but I don’t have any questions. I just want to say how excited I am about this opportunity.”  
-  
-Look, I love that people want to work with the awesome team that’s been assembled (Avengers!), but there should be things about the company that you would want to know. Ask about the organization’s commitment to excellence in its work. Ask about how an equitable environment has been created and fostered (and if it’s not yet there, ask about what the hold up is). Ask about why this role is open. If it’s an additional role, ask how it was determined that this was the right time to add. If it’s a replacement role, ask why the previous employee moved out of the job. Ask about the manner with which investment in the persons of the company are made, not just in benefits (certainly including this, though), but also in areas of competency development, work-life integration, community involvement and the like.  
-  
-This prep work will balance out the emotional desire to “just know” that this is the right place for your next role. There is nothing wrong with enjoying a stroll around the deck in the moonlight while wearing a chiffon gown. However, the engine room, the laundry room and the staff quarters are just as important to get a true view if you’re planning on investing yourself on that ship.
-
-<!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave -->
-!Humareso Blog Posts-9-Waiting for a girl like you (1).jpeg)In the movie **Life Itself**, Oscar Issac’s character, Will, has a great line about waiting for the right moment to ask out Abby (Olivia Wilde). He is waiting for the right moment because when he starts this relationship with her, he is all in. There won’t be any turning back. He wants to ask her out at the right moment to set that tone from the onset. He’s waiting with a purpose.
-
-And we might be working with some of those “waiters” as well. Over 90% of Gen Z and Millennial employees would like to change jobs this year. The percentage, however, falls dramatically when pushed as to whether they really will.
-
-The economic environment is affecting the confidence that our employees have about moving on. Most feel that it’s necessary to move on as it will likely open doors for higher pay and greater responsibility. There are varying studies showing different results regarding compensation differentiation based on staying or leaving. For instance, a recent analysis done by Sentinel Pay Analytics for an organization with about 23,000 employees showed no difference in pay levels between those who’ve stayed and those who boomeranged back to the company. That’s not the case in all organizations, but banking on it in the current economic state appears too risky.
-
-“The number one thing people are craving right now is stability—especially in their workplaces,” said Ella F. Washington, PhD, an organizational psychologist and professor of practice at Georgetown University’s McDonough School of Business. This jives with what many of you are facing. And while employees may have interest in leaving as soon as they feel confident to do so, we don’t have to accept that fate. Organizations can take steps to change that trajectory.
-
-Own dialogue – Look to engage with people…on purpose. For managers and human resources practitioners, the no news is good news philosophy has affected our intentionality with our staff. We stay distant and we chat only about work process or product. These heavily transactional conversations cause a utilitarian vibe to be felt by our employees. Engage with work-related conversations, of course, but also recognize that performance-based dialogue includes skill development in relationally areas, too. Work with your team by talking to your team.
-
-Encourage innovation – Too often we’re too busy. We cannot take the time to foster creativity because we have deadlines or quotas to meet. We keep our eyes on only the finish line, and we fail to meet people in innovative advancements. Your teams have ideas. They want processes to be better. They see the value in what they are doing, but they also want to influence what they are doing. They want to make a change for the good of the whole, truly. We may be tempted to minimize creativity because of that one time it didn’t work out. Innovation leaves room for failure so don’t be surprised that you will have to try again. It is not a reason to stop pushing forward.
-
-Offer transparency in moderation – Organizations that function fully in transparency – sharing every data point possible – may unintentionally foster fear. When sales fall slightly, or when expenses increase over one month, we might have to handle worries from the team. This is not to say that transparency is bad; actually, quite the opposite. Employees feel more tied to the organization when they have a level of understanding as well as the opportunity to ask deeper questions. Allow for that while keeping considerate of how much data is going out.
-
-It's not too late to keep some people who may be thinking about a move, delayed as it may be. The current economy might give organizations a false sense of security. You may not be doing as well as you think just because turnover is down. The economic stagnation, presidential election, high inflation, and other considerations could be affecting the status quo nature of employee retention.
-
-And to be clear, there are still employees leaving their roles now. We can’t look at data so hard and fast in all categories. The trend is not universal, nor should it be. Either way, taking a look at how you might influence a change in direction is worth your time.
-
 
 ---
 Sources
 
-- Waiting for a Girl Like You: Is Your Talent About to Leave? (2024-03-26 18:11:08) — https://blog.humareso.com/is-your-talent-about-to-leave
 - You're So Vain: The Egotism in Performance Appraisals (2023-02-21 13:32:30) — https://blog.humareso.com/performance-appraisals
 - Take This Job and Shove It: Quitting During a Recession (2023-01-04 17:48:44) — https://blog.humareso.com/quitting-during-a-recession
-- I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring (2023-04-04 17:07:09) — https://blog.humareso.com/ithinkitslove
 - A Different Corner (2023-06-09 14:50:24) — https://blog.humareso.com/a-different-corner
 - Wild Wild Life: The Need for Healthy Work Environments (2022-09-08 16:40:51) — https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments
 - Voices Carry: Relational Mistrust in Organizations (2022-07-06 16:17:19) — https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations

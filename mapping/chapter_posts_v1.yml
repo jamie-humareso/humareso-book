@@ -1,128 +1,86 @@
 chapters:
   -
     chapter: 1
-    title: Seeing the Person at Work
+    title: "Seeing the Person at Work"
     target_words: 6000
     estimated_words: 7028
     posts:
-      - shake-it-off-when-the-haters-hate-really-hurts
-      - wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude
-      - wooing-candidates
-      - ithinkitslove
-      - john-baldino-celebrates-ten-years-of-humareso
-      - wild-wild-life-the-need-for-healthy-work-environments
-      - coming-up
-      - shrm22-a-call-for-mental-health-support
-      - what-have-i-done-to-deserve-this
-      - lets-get-serious-relevance-over-trendiness
-      - relational-authenticity
+      - "shake-it-off-when-the-haters-hate-really-hurts"
+      - "wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude"
+      - "wooing-candidates"
+      - "ithinkitslove"
+      - "john-baldino-celebrates-ten-years-of-humareso"
+      - "wild-wild-life-the-need-for-healthy-work-environments"
+      - "coming-up"
+      - "shrm22-a-call-for-mental-health-support"
+      - "what-have-i-done-to-deserve-this"
+      - "lets-get-serious-relevance-over-trendiness"
+      - "relational-authenticity"
   -
     chapter: 2
-    title: Leading Without Ego
+    title: "Leading Without Ego"
     target_words: 6000
-    estimated_words: 6619
+    estimated_words: 4078
     posts:
-      - shake-it-off-when-the-haters-hate-really-hurts
-      - the-grouch-getting-rid-of-the-curmudgeon-in-you
-      - is-your-talent-about-to-leave
-      - performance-appraisals
-      - quitting-during-a-recession
-      - ithinkitslove
-      - wild-wild-life-the-need-for-healthy-work-environments
-      - voices-carry-relational-mistrust-in-organizations
-      - lets-get-serious-relevance-over-trendiness
-      - relational-authenticity
+      - "the-grouch-getting-rid-of-the-curmudgeon-in-you"
+      - "is-your-talent-about-to-leave"
+      - "performance-appraisals"
+      - "quitting-during-a-recession"
+      - "voices-carry-relational-mistrust-in-organizations"
+      - "do-you-hear-the-people-sing-compromise"
   -
     chapter: 3
-    title: Feedback that Heals and Enables
+    title: "Feedback that Heals and Enables"
     target_words: 6000
-    estimated_words: 4497
+    estimated_words: 2377
     posts:
-      - shake-it-off-when-the-haters-hate-really-hurts
-      - mr-cellophane
-      - born-to-run-the-individual-call-to-progress
-      - what-you-dont-know-expectation-management-and-high-performance
-      - dreams
-      - performance-appraisals
-      - ithinkitslove
+      - "mr-cellophane"
+      - "born-to-run-the-individual-call-to-progress"
+      - "what-you-dont-know-expectation-management-and-high-performance"
+      - "dreams"
   -
     chapter: 4
-    title: Joy, Care, and Mental Health
+    title: "Joy, Care, and Mental Health"
     target_words: 6000
-    estimated_words: 6384
+    estimated_words: 1299
     posts:
-      - the-grouch-getting-rid-of-the-curmudgeon-in-you
-      - wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude
-      - blind-repetition-does-not-lead-to-skill-development
-      - phantom-development-practices-abound
-      - wooing-candidates
-      - wild-wild-life-the-need-for-healthy-work-environments
-      - coming-up
-      - shrm22-a-call-for-mental-health-support
-      - what-have-i-done-to-deserve-this
-      - relational-authenticity
+      - "blind-repetition-does-not-lead-to-skill-development"
+      - "phantom-development-practices-abound"
   -
     chapter: 5
-    title: Building Cultures You Can Live In
+    title: "Building Cultures You Can Live In"
     target_words: 6000
-    estimated_words: 1908
-    posts:
-      - wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude
-      - wooing-candidates
-      - wild-wild-life-the-need-for-healthy-work-environments
+    estimated_words: 0
+    posts: []
   -
     chapter: 6
-    title: Relationships and Trust
+    title: "Relationships and Trust"
     target_words: 6000
-    estimated_words: 2536
-    posts:
-      - shake-it-off-when-the-haters-hate-really-hurts
-      - born-to-run-the-individual-call-to-progress
-      - voices-carry-relational-mistrust-in-organizations
-      - do-you-hear-the-people-sing-compromise
+    estimated_words: 0
+    posts: []
   -
     chapter: 7
-    title: Hard Conversations, Human Outcomes
+    title: "Hard Conversations, Human Outcomes"
     target_words: 6000
-    estimated_words: 2492
+    estimated_words: 517
     posts:
-      - the-grouch-getting-rid-of-the-curmudgeon-in-you
-      - born-to-run-the-individual-call-to-progress
-      - is-your-talent-about-to-leave
-      - a-different-corner
+      - "a-different-corner"
   -
     chapter: 8
-    title: Purpose, Values, and Work
+    title: "Purpose, Values, and Work"
     target_words: 6000
-    estimated_words: 5412
+    estimated_words: 777
     posts:
-      - shake-it-off-when-the-haters-hate-really-hurts
-      - first-steps-to-an-hr-tech-stack
-      - quitting-during-a-recession
-      - ithinkitslove
-      - john-baldino-celebrates-ten-years-of-humareso
-      - coming-up
-      - lets-get-serious-relevance-over-trendiness
-      - do-you-hear-the-people-sing-compromise
+      - "first-steps-to-an-hr-tech-stack"
   -
     chapter: 9
-    title: Resilience without Toxicity
+    title: "Resilience without Toxicity"
     target_words: 6000
-    estimated_words: 3164
-    posts:
-      - the-grouch-getting-rid-of-the-curmudgeon-in-you
-      - wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude
-      - blind-repetition-does-not-lead-to-skill-development
-      - phantom-development-practices-abound
-      - wooing-candidates
+    estimated_words: 0
+    posts: []
   -
     chapter: 10
-    title: The Human Future of Work
+    title: "The Human Future of Work"
     target_words: 6000
-    estimated_words: 3169
-    posts:
-      - shake-it-off-when-the-haters-hate-really-hurts
-      - ithinkitslove
-      - a-different-corner
-      - john-baldino-celebrates-ten-years-of-humareso
-      - lets-get-serious-relevance-over-trendiness
+    estimated_words: 0
+    posts: []

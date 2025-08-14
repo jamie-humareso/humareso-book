@@ -51,6 +51,7 @@ def main() -> None:
 
     briefs = VOLUME1_BRIEFS if args.profile == "v1" else VOLUME2_BRIEFS
     chapters: List[Dict] = []
+    used_slugs = set()
     for brief in briefs:
         theme = set(t.lower() for t in brief["theme_tags"])
         candidates = [p for p in posts if theme & set(p.get("tags_lc", []))]
@@ -60,10 +61,13 @@ def main() -> None:
         picked: List[Dict] = []
         total = 0
         for c in candidates:
+            if c["post_slug"] in used_slugs:
+                continue
             if total >= brief["target_words"] * 1.1:  # small buffer
                 break
             picked.append(c)
             total += int(c.get("word_count", 0))
+            used_slugs.add(c["post_slug"])
 
         chapters.append({
             "chapter": brief["chapter"],
@@ -73,7 +77,6 @@ def main() -> None:
             "posts": [p["post_slug"] for p in picked],
         })
 
-    # Minimal YAML writer
     def quote_str(s: str) -> str:
         return '"' + s.replace('"', '\\"') + '"'
 
@@ -82,7 +85,9 @@ def main() -> None:
         if isinstance(obj, dict):
             lines = []
             for k, v in obj.items():
-                if isinstance(v, (dict, list)):
+                if isinstance(v, list) and len(v) == 0:
+                    lines.append(f"{sp}{k}: []")
+                elif isinstance(v, (dict, list)):
                     lines.append(f"{sp}{k}:")
                     lines.append(to_yaml(v, indent + 1))
                 else:
@@ -92,6 +97,8 @@ def main() -> None:
                         lines.append(f"{sp}{k}: {v}")
             return "\n".join(lines)
         elif isinstance(obj, list):
+            if not obj:
+                return f"{sp}[]"
             lines = []
             for item in obj:
                 if isinstance(item, (dict, list)):

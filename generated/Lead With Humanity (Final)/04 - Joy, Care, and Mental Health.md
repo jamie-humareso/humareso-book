@@ -1,7 +1,7 @@
 ---
 title: Joy, Care, and Mental Health
 target_words: 6000
-estimated_words: 6384
+estimated_words: 1299
 ---
 
 # Joy, Care, and Mental Health
@@ -23,110 +23,6 @@ Lest you think all sequels are bad, they are not. **The Godfather, Part II** ser
 
 The form is not the goal, but in the developmental, advancing function of multifaceted talent in an emerging story (market). When we merely work on form, we get **The Godfather, Part III**. And I don’t have enough time to talk about that monstrous disappointment…
 
-<!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments -->
-The Philadelphia Zoo is the oldest zoo in the United States, originally opening as the Philadelphia Zoological Gardens in 1874. And as early as I can remember, I loved the zoo. The smell, not so much, but the overall zoo is amazing. I recall getting my first Zoo Key (big stuff in 1975) which allowed me to turn on the secret recordings of information about certain animals throughout the property. And while these callbox speakers sounded exactly like a teacher from Charlie Brown’s world, I would listen to them over and over again as I canvased every exhibit.
-
-Today, there are a couple of great behind-the-scenes shows on Discovery+ about the Bronx Zoo and the San Diego Zoo. The Director of the Bronx Zoo shares, at the beginning of each episode, that if you ask a kid to draw a picture of a zoo, you’ll likely see animals behind bars. His purpose, as he continues, is to change that perception by building conservations and habitats that will better suit and support the animals there.
-
-Isn’t that, in some ways, how we ought to approach the habitats we build in our organizations? Of course, the suggestion that employees are in captivity is not the same (though I know some of you feel that way!), but rather think of it as crafting pathways for health amongst our teams by being intentional regarding the environment.
-
-Over the last decade, more organizations have put forth sustainability plans as to how they will handle their impact on the world’s environment. And while this is excellent news, with much more work to be done, many of those same organizations have not put enough thought, let alone action plans, into doing the same for the internal environment for which they are responsible. Both need attention, for sure.
-
-When I watch the various zookeepers, designers and operations experts work together to build a habitat that will support learning, encourage health and offer safety to the animals to be housed, I am often impressed at the careful planning and hours of teamwork offered to get it done. There is a real passion to build something impactful for the benefit of the recipient. And when the animals are released into the designed area, we have the joy of watching them thrive.
-
-Whether our role is business owner, manager or human resources, we have the same privilege. Think about how often meetings you attend are in response to what’s not working or who’s not working. We spend the time putting punitive measures into place, often with a longing for a more proactive approach in the future. We genuinely hope for that to happen, but the rut we get in is hard to dig out from, sometimes years-deep in its making. You are the one who gets to turn the attention on what will help our staff flourish.
-
-Environments matter. And lest you think that those roles working from home must be the best setup, think again. Time Magazine published an article with years of research, including the pandemic timeline, to show that those in highly collaborative roles struggled the most with working from home. Their home environment, peppered with some at-home interruptions, made it more difficult to perform to the level desired by both the employee and the employer. Of course, this is not to say that working from the office will solve it all. We know our own experiences that show us how ineffective workplace meetings and collaborative sessions have been. It’s not only about where you sit, but how where you sit has been setup, what resources are available to assist the learning needed, who can support healthy engagement and why it matters.
-
-Transparently, organizations struggle regularly with creating healthy habitats for our teams to thrive. The privilege of asking our teams what might help them to do so is one distinct area we have that the Bronx Zoo does not. We can work collaboratively with our teams to build challenging learning pathways and supportive, innovative teamwork opportunities. We can offer options, and we start by saying we are committed to doing so.
-
-Organizations that build healthy environments are more productive. This is not news, but it is the Achilles heel of many an organization. Likely, attention has been diverted to other things that seem more pressing. Be mindful of the environment being built and how you can be a proactive champion for its construction. Work with other key stakeholders to craft an environment that inspires and provokes people to success.
-
-<!-- Source: Coming Up - Joy at Work, Home and Within Self | 2022-12-09 15:26:00 | https://blog.humareso.com/coming-up | coming-up -->
-Afresh. That’s the word for 2023. Yup, I’ve decided. Feel free to use the word in sentences throughout the year. “Hmm, I am tired of these clothes. Maybe if I pair things afresh, I won’t hate everything I own in my closet.” “The marriage is stale. The relationship needs some life afresh.” “While I appreciate the dinner you’ve made, looking at your recipes afresh would be a welcome change.” (Let me know how that one goes)
-
-There are many ways to use the word. It’s applicable at home or work, with friends or family, and for pleasure or for business. It’s the starting point for change. A review of what’s happening and how to revitalize it, whether by approach or adoption. It’s the challenge to look at what’s coming up and infuse enthusiasm into it. Afresh is intentional.
-
-When we look at work process, for instance, how can we see it afresh? The complacency that settles in due to the routine of work, whether onsite, at home or remotely, affects what we think of work. We can become stagnant and hate the fact that we’ve become stagnant.
-
-The joy of work is different than being happy at work. Ouch. That one might sting a bit. We don’t mind being proactive at work if we’re happy, but if we’re unhappy or marginally connected at best, then we don’t have the energy or desire. We want to be inspired first. Someone needs to come along, usually a manager or business leader, and help me get happy (again, if ever). Once that happens, then I am most willing to approach work afresh.
-
-Truth be told, that’s not likely to happen. Your happiness is not a commodity that managers trade well. Many managers are working out their own happiness, and the ebb and flow of emotion is not a competency taught or practiced in most (if not, any) courses of study. Why would we place such a burden into the hands of management? Further, why would I want a manager to have a say in my happiness?
-
-This is where seeing joy afresh is helpful. Joy is mine. I get to focus on this state of being, distinctly different than happiness, and determine where my stability comes from. When I approach work process afresh, I don’t want to manufacture a feeling, but rather, I want to operate out of what’s coming up in me. My joy is mine. I am anchored in truths that encourage joy in my heart and mind. Now, when innovation and creativity are asked of me, I am eager to do so because it means something to me as a result of who I know I am. I have great joy in that. Happiness comes and goes, but joy doesn’t have to.
-
-The challenge of joy is that we want to feel it every day. Listen, I love my three kids. There’s nothing I wouldn’t do for them. They are remarkable adults and make me proud at every turn. BUT, they don’t live with me anymore. They are off in college, grad school and beyond, making their own way, living in their joy, even when they don’t feel happy (it’s finals time!). I don’t live daily in state of their presence, but it does not diminish my joy. I may miss them. I may not be happy at moments because of that; however, my joy in who they are and how I’ve been allowed to be a part of that truth is mine, regardless of the circumstances. That’s how joy should operate in your life. Take the time to look at joy afresh.
-
-Our organizations need us to push for fresh looks. The messaging of 2022 included a push to bring your whole self to work. Some of you might not be excited about that, not because work shouldn’t ask for that (that’s an entirely different blog post!), but because you haven’t been thrilled with who you are. That’s okay. Today is the day to approach yourself afresh. It’s not about resolutions, but it’s about commitment, habits to encourage those commitments and surrounding yourself with people who will love you through those commitments.
-
-The next year is yours. Every year is yours, though. Don’t allow another day to go by without reflection and a path towards patterned change in your life. Yes, work needs you to be your healthiest. Your relationships need that, too. You need you to be your stabilized best. It’s time for life afresh.
-
-<!-- Source: SHRM22 – A Call for Mental Health Support | 2022-06-21 16:35:09 | https://blog.humareso.com/shrm22-a-call-for-mental-health-support | shrm22-a-call-for-mental-health-support -->
-1 in 4. If you were to have a one in four chance of winning the lottery, you would play. Those chances are a no-brainer.
-
-*Those same odds represent the number of employees who feel hopeless today.*
-
-That is a hard sentence to type. 25% of our employee population struggle with some sense of hopelessness. At the SHRM Annual Conference, these numbers were shared with the roughly 13,000 attendees. Staggering to us all. We were also acutely aware that the numbers are likely worse since many may not want to divulge their thoughts even in an anonymous survey. Walking through your workplace or joining a Teams or Zoom call and thinking about 1 out of at least every 4 there is feeling a level of dread or despondency is heavy, even burdensome. So, what are we to do?
-
-A focus of the time at #SHRM22 was to commit more deeply to the destigmatizing of mental health issues as well as to offer more resources of support. SHRM has long been supportive of this issue directly to our veteran community and through some other partnered workshops with other non-profits, but COVID-19 and the state of the world have both deepened and widened the number being affected. Mental health support can no longer be a nice-to-have benefit; it sits squarely as a must for today’s organizations.
-
-In my own communication with other attendees representing varying geographies and industries, the talk was consistent. We’re struggling to know who may need support and we are not as effective in sharing what those resources are. Our organizations have been upended with constant communications for the pandemic, CDC safety guidelines, the talent shortage, asking for extra help/support to get work done, and on and on. And now, let’s add mental health to the list of email pushes. Most I spoke with agreed that it would likely be lost in the blob of an inbox or just one of a thousand channels on Slack.
-
-As is typically the case at a SHRM National event, content is aplenty, but the call to be focused on mental health was palpable. The strongest advocate to share was Arianna Huffington, Founder of Thrive. Arianna pulled no punches and started her time with another statistic: Between the ages of 10 and 34, suicide is the second leading cause of death. The thousands in attendance offered an audible gasp. We’re running on empty and now we feel empty. And the emptiness is not as temporary as we had hoped.
-
-Companies can impact all communities by caring for the teams they have. It’s not about enabling as some might offer, but Huffington shared, that it is more about changing the narrative that “burnout is the price of success.” If you don’t give everything you have and become a shell of yourself, then the opportunity for success will slip through your fingers. It’s a lie and it’s killing people. Organizations must rally resources and offer various communication outlets for coping and equipping. We can do better.
-
-And while SHRM22 did not disappoint in bringing people back together and reminding us that we’re truly not alone, it challenged us to be diligent and intentional about mental health support. I have sat in a room with an employee whose spouse had committed suicide. I have been called by the police to inform me that an employee took his own life, and it was my role to tell the company. I have held the hands of broken parents who were burying a child who felt that she had nowhere else to turn but to end it all. I don’t want to have to do any of those ever again.
-
-Let us be inspired to build up, to resource up and to frame up healthier workplaces. We are so often the joy-givers in our companies. Today, rise and offer that joy like there’s no tomorrow.
-
-<!-- Source: What Have I Done to Deserve This? | 2022-08-19 20:57:42 | https://blog.humareso.com/what-have-i-done-to-deserve-this | what-have-i-done-to-deserve-this -->
-There are three young adults who have eaten my food, slept in my house and spent my money for years. They are tremendous. Those who know me have probably heard me share that no less than 10,000 times. Frank, Olivia and Cassandra are bright, funny, kind and loving. Truly awesome people. However, they are not without their vices. And corporately, don’t let them be in a room when an episode of **Maury** is on. They will watch to the end to see if the man in question is the father of the other guest’s child. They jump around just like the guests and studio audience in disbelief of the results. As the dad watching this, I wind up laughing hysterically, not at the show, but at their responses.
-
-I am often struck as to what has led people to the lives they are living. We all have a history. We all wish something would have gone differently. We look back on things with rose-colored glasses. We long for one different turn or choice in our past. This may be to varying degrees, but a shared experience for us all, nonetheless.
-
-As human resources professionals, we are often the ones who hear the stories of regret, pain and anger from the teams we support. On one occasion, I remember sitting in my office crying with an employee who was battling alcoholism and drug use. He was longing for a different path. He was struggling with the pain of past choices and heartbreak. The guilt he felt was as constricting as the longing to return to his addiction. He wanted to know what he did to deserve this pain while he was admitting making the poor choices all on his own. The dichotomy broke my heart.
-
-Our role is not to judge, but to listen. As a recovering “fixer,” I know my tendency was to offer a 3-step strategy to move things along. Pain from a distant parent, no problem. Divorce got you down, no worries. I had the answers. Wisdom came a little later and I stopped feeling like I had to fix it all. And that meant, the unsolicited advice dialed way back.
-
-Each person has a path towards discovery. In human resources, we can default to the policy or the program, but the real support is in the listening and providing the outlet. I have lost count as to how many employees have thanked me after they’ve shared with me for a bit. I would say very little, but the action of being present and listening was enough to encourage and to comfort. They could return to work a little lighter and with more of a focus on what work needed to be completed.
-
-There is often a joke about HR being the counseling department. I understand where that comes from, but truly it’s about listening. That’s what makes it feel counselor-esque. So, how are you doing at listening? Are you more interested in the “dirt” or in the person? I know it’s easy to get wrapped up in the story of the drama. But that drama is the pain someone is bearing. Hear it from that vantage point. Your responsiveness will evolve accordingly if you keep that in mind.
-
-*(For some additional thoughts on how and why to listen, look back at “*Leave A Tender Moment Alone*”)*
-
-<!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity -->
-In The Return of the King, there is a scene at the top of the Orthanc where Saruman affirms the loyalty of Grima Wormtongue to Gandalf far below. Saruman is dismissive of Grima, who is standing there and could speak for himself, and implies that there is nothing that could change the mind of the lowly servant. King Theoden offers to Grima what Saruman cannot – love through forgiveness and in recalling what it means to be part of a community. Theoden reminds Grima that he was once a man of Rohan and can be one again. What Saruman fails to see is that wanting to be treated with love and forgiveness can drive someone who has been without it to extremes. In this case, and aptly done, it leads to Saruman being stabbed by Grima Wormtongue.
-
-Active, authentic love is tough to come by. For many, love is tethered to condition. Literature and history are replete with these accounts. When we work with people who’ve been conditioned in this manner, which is most, someone must break the chain. The systemic nature of conditional love in relationship is generational. Those deposits run deep which is why our action against that breeding needs to be intentional and consistent.
-
-In our workplaces, we see this in the most simplistic of situations. Teams trying to work together can quickly dissolve into factions around whose ideas are better and who has the political clout to get things done. Conditions are placed upon acceptance and engagement. Relationships can be more about popularity rather than people. And as we all know, popularity wanes. It’s something that has to be kept up with regularly and is built on conditions. The negative impact to innovation, high performance and retention is real and affects the cultural construct for an organization.
-
-Our job includes smashing these paradigms. Opening the door for true inclusion is not found in pandering. If every voice has value, then how does your organization show that? Of course, not everyone’s ideas can be put into place, nor should they. However, if the win is found in those who have mastered the conditional relationship merry-go-round, then we’ve encouraged shallow, tempered people development. And is something that will not work.
-
-You are the one to intervene and work to establish honest, fruitful treatment of persons regardless of “winning” contributions. You are the “plus one” to each person’s daily event of work. Be a great date, so to speak. Be attentive, fun and intentional. Go and lift others up.
-
-Yes, it’s tiring. And often, you may be left out in the cold while trying to change the mechanic of conditional love and engagement. Stay the course. Value will be found in the long-term when we can look back on activated change in how people affirm and treat one another. It feels idealistic only because we’ve made it so. We have allowed too much time to elapse without correcting this broken system. That does not make what it ought to be a fairy tale, but rather, a lost art. It’s time to practice it once again.
-
-<!-- Source: Promises, Promises: The Wooing of Candidates | 2023-10-05 15:48:25 | https://blog.humareso.com/wooing-candidates | wooing-candidates -->
-!Humareso Blog Posts-6-PromisesThe wooing of talent takes skill, determination, availability…and a bit of luck. We don’t like that luck part. It’s out of our control. I can make myself available. I can improve my skills in rapport development, full spectrum sourcing, and job marketing. I can put the dedicated time in. But catching someone at the right place, right time and in the right mood? That isn’t in our control.
-
-The default for some recruiting pros and hiring managers is to overpromise in order to manufacture luck. Creative career mapping opportunities are well-delivered but based upon no actual history of offering such options to existing staff. A commitment to knowledge deepening is espoused, but often there is no time or budget committed to this endeavor. Warm affirmations regarding the company values are wrapped like a blanket around the candidate, but the existing staff have yet to find that blanket.
-
-The lies that are told (yes, I am calling them lies) lay a foundation that requires an all-or-nothing response from the candidate. You’ve given them everything you can – money, culture, opportunity promises – and that sets up extremes. If the candidate accepts these conditions and joins the team, only to then find out rather quickly that no such opportunities are ready to be presented (nor may they ever be), then the quick departure occurs. Hiring managers return to scrambling to fill the once-again open role (usually citing the previous person to be a “just didn’t fit” employee) where they will return to promising experiences unlikely to happen.
-
-On the other hand, if the candidate calls the bluff and asks to speak to a current employee or two who are doing the same or similar work (yes, that happens at times), recruiters know they’ve been had. How could they let the candidate ask about these, at best, exaggerated opportunities to the current team? Won’t the staff finish that conversation with the candidate and march directly to the manager to ask when their developmental options will begin? The all-or-nothing is setup and it’s impossible to unwind.
-
-Recruiters and hiring managers need to stand firm in following some basic principles of talent wooing:
-
-First, speak the truth. Offer what is, not what you might hope will be, unless you clearly define the difference. It’s okay to say that, with the potential addition of this particular candidate, we hope to be able to expand our educational investment opportunities. We don’t have a timeline on that, but that is our clear hope, though not present today. Candidates appreciate the truth. They don’t want to feel snookered.
-
-Secondly, anything that is offered in the interviewing process is up for grabs in the accountability game. A candidate should be able to ask when they might expect an update, should they accept a position with the organization, as to when these pieces hoped for are planned or are happening. Open-ended hopes will likely become closed-ended bitterness within the first six months of employment. By establishing timelines for check-in wrapped in accountable practices for delivery, the new employee has a clearly defined expectation to hold you to.
-
-Thirdly, never underestimate the power of a realistic job preview. Offer the candidate to speak to employees who may not be part of the decision-making process. In fact, have the candidate speak to a champion as well as one who may not be overly enamored of the company (don’t tell me they aren’t in your company; they are). This is the most holistic view they can get. By putting those conversations forward as an option in the process, the candidate gets a strong sense that you’re not trying to hide behind something. Proactive transparency is attractive to candidates.
-
-Promises aren’t the enemy; it’s the delivery and the follow-through. Can you confidently stand behind what you have just promised? Is it a real possibility or is it wishful thinking? You know which one it is; don’t lie to yourself, and certainly don’t lie to the candidate.
-
 <!-- Source: Shadow Dancing: Phantom Development Practices Abound | 2024-09-04 13:15:00 | https://blog.humareso.com/phantom-development-practices-abound | phantom-development-practices-abound -->
 !Humareso Blog Posts-9-Shadow DancingHave you been fascinated with having special powers? As a kid comic book enthusiast, I would spend hours reading the adventures of various superheroes. When those stories came to life on the small or big screen, I was front and center (still am, truth be told). Steve Austin, The Six Million Dollar Man, was a stud. He was the world’s first bionic man. For those of a certain age, do you remember this mid-1970’s TV Show intro? “Steve Austin. A man barely alive. Gentlemen, we can rebuild him. We have the technology. We have the capability to build the world’s first bionic man…Steve Austin will be that man. We can make him better than he was before. Better…Stronger…Faster.” YES! I was hooked. He was built to be the best.
 
@@ -142,55 +38,9 @@ It is not going to be true that every organization is failing at this. It isn’
 
 For many of us, our organizations are cutting back. Trying to walk into Finance with a list of demands might be met with disdain. This idea of doing more with less is not a new concept to human resource practitioners. We know that we will still need to train and develop staff regardless. Let’s not grow weary of doing so, even if we don’t have that $6 million budget. We can’t build Steve Austin, okay, but we can build Marcy, Tim, Joann and Diego. We can work with what we have more deliberately. We have the technology. Our smartphones alone have more technology in them than the computers used to build the Six Million Dollar Man. Use those to start. We have the capability.
 
-<!-- Source: The Grouch: Getting Rid of the Curmudgeon in You | 2025-03-06 17:43:32 | https://blog.humareso.com/the-grouch-getting-rid-of-the-curmudgeon-in-you | the-grouch-getting-rid-of-the-curmudgeon-in-you -->
-!Humareso Blog Posts-1-The Grouch
-
-The difficulty of being a curmudgeon is deep and wide. As a rapidly-becoming older person, the temptation to slide into the glass being perpetually half-empty becomes more appealing. “Nothing” will ever be as good as it once was, and it is my job to highlight those failures through an unwelcome twelve-point treatise. Now while I don’t actually do this (please God, don’t have me do this!), I am struck by how many do. We look back on what once was with rose-colored glasses, focusing solely on how good life once was (lies, all lies).
-
-I don’t think the intention is to become this. I also know that this is not an exclusive problem to the older generations. Recently, I heard a twenty-something share all the reasons why work sucks, people suck and how if everyone would just see things the way they did, then everything would work out much better for everyone. They were “current” and had their finger on the pulse of what everyone their age wants. Really? Have we really allowed the training wheels to come off the proverbial bike with this level of frustration and ineptitude? We cannot really believe we will make true progress through such a negative, inflexible, unapproachable demeanor.
-
-And lest you think that negativity stymies collaboration and innovation leading to high performing cultures, it does not on its own. It is the entrenched stubbornness that pulls us under. Sometimes negative points of view challenge our approach and we need to take those perspectives into consideration. But inflexible stoicism about the negative truths is unhelpful. We won’t be able to advance our organizations through robust market penetration and creative problem solving with those stubborn curmudgeons blocking the way.
-
-If you’ve slipped into such a dynamic or are living through it in your workplace, here are a few ways to address it:
-
-**Decide you are fallible** – The tension we experience is oft-based upon our self-righteous conviction of infallible information. We know what we know and that is all there is to know. This belief exists in companies even though we say things like “innovation and advancement provide daily learning opportunities.” We don’t really believe it and we don’t act like we believe it. Listen, you don’t know everything. Say that out loud to yourself. Be free from the misdirected burden that you must be correct in every way. Put effort into understanding rather than posturing. In this way, when there is a truth to share, you would be seen as a contributor to success, even when the offering is a negative view of an issue.
-
-**Rally the core** – Who can you be vulnerable with by asking for their view of your inputs? And if you have a compadre who thinks like you, then look for another person. Find a trusted resource who would be honest. And if you have made the environment unsafe because of your negativity, then start by owning that. Ask for forgiveness and then ask for their insight. Let the person know you are seeking to know and that you are endeavoring to change. It is not a guarantee that this person will jump right in to share, so it may take a bit of time before they share as you need them to.
-
-**Practice being winsome and positive** – When you have operated in “curmudgeonness” for a while, your sensors need retraining. They need to be willfully redirected towards engaged relationship building and collaborative advancement. This is not the same as becoming “Susie Sunshine” but rather one who is welcome to participate in group meetings, developmental conversations, and enthusiastic business forecasting. The Oscar the Grouch vibe won’t get you there. Learning how to (re)function in a productive manner that is inclusive of all takes training. If you know someone who could help you reframe, ask them for help here as well.
-
-Today is a great day to stop sitting in your office spouting negativity. It is a great day to change your frowning face and your down-on-the-world mentality. Today is a great day to get up and choose to engage openly and productively and be welcomed to do so. Being a curmudgeon doesn’t look good on anyone; stop trying to bring it into fashion.
-
-<!-- Source: Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude | 2025-02-18 20:15:21 | https://blog.humareso.com/wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude | wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude -->
-!Humareso Blog Posts-1-Wicked Game
-
-Have you seen that hilarious commercial for the Aunts? Geico has put out some incredible commercials through the years, and this one is no exception. The concept of uninvited houseguests who also happen to be aunts of the homeowners is an approachable setup for the viewer. You may likely have an aunt like that. She comes into the home and comments on everything; it’s like a wicked game for these aunts. Our feelings of inadequacy rise to the surface. Ah, good times. To tap into such emotions, albeit tension and toxicity, brings a shared experience to life. That is the mark of a great commercial. Even though it’s been four years since its initial release, the commercial is still being played currently.
-
-The shared experience of that commercial is fine when it’s at a distance. If we were really living that experience, however, the response would be much different. The annoyance of people pointing out your flaws and missteps would drive you out the door or to commit a felony. In the day-to-day, people in organizations tend to experience this type of interaction in a slow and steady manner. Chipping away at our self-esteem, we may sit despondent hoping that another interaction with colleagues wouldn’t be for another six months.
-
-This cannot be the truth that we allow people to live in.
-
-Fortitude is a great durable skill. Through encounters like these, our employees can learn how to become grounded, to filter out unnecessary distractions and to perform at the level the organization needs. But this is not an excuse for a poor work environment. The competency building needs not to be done on the backs of trauma and toxicity. In other words, the ends do not justify the means.
-
-How else can we build fortitude in our staff? Firstly, expect the challenges and failures to come. Sounds simple, right? However, we don’t usually include in our onboarding protocols expectation management around failure. Work failure is a very real part of the experience at your organization, especially if it is promoting creativity, innovation and change.
-
-By setting the tone for challenges to come, we promote coping mechanism development. How can an employee best train themselves in managing stress and in maintaining a forward-thinking perspective? We can provide resources in mindfulness, in relaxation, in mental acuity and toughness. All these areas can lead to a healthy development of fortitude in our staff.
-
-It’s much easier to build support structures and cultivate adaptability when someone has invested internally in the hard work of fortitude development. Too often, organizations throw mentoring and resource groups at staff without providing a way for the individual to first invest in self. Those structures are difficult to maintain when the foundation is not there, or maybe even worse, if the “aunts” have been allowed to build their foundations.
-
-Today is a great day to remove those Auntie Influencers; they are the ones who are now “expired!”
-
 
 ---
 Sources
 
-- The Grouch: Getting Rid of the Curmudgeon in You (2025-03-06 17:43:32) — https://blog.humareso.com/the-grouch-getting-rid-of-the-curmudgeon-in-you
-- Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude (2025-02-18 20:15:21) — https://blog.humareso.com/wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude
 - You Learn - Blind Repetition Does Not Lead to Skill Development (2024-10-22 16:00:00) — https://blog.humareso.com/blind-repetition-does-not-lead-to-skill-development
 - Shadow Dancing: Phantom Development Practices Abound (2024-09-04 13:15:00) — https://blog.humareso.com/phantom-development-practices-abound
-- Promises, Promises: The Wooing of Candidates (2023-10-05 15:48:25) — https://blog.humareso.com/wooing-candidates
-- Wild Wild Life: The Need for Healthy Work Environments (2022-09-08 16:40:51) — https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments
-- Coming Up - Joy at Work, Home and Within Self (2022-12-09 15:26:00) — https://blog.humareso.com/coming-up
-- SHRM22 – A Call for Mental Health Support (2022-06-21 16:35:09) — https://blog.humareso.com/shrm22-a-call-for-mental-health-support
-- What Have I Done to Deserve This? (2022-08-19 20:57:42) — https://blog.humareso.com/what-have-i-done-to-deserve-this
-- Love Plus One: Relational Authenticity Produces Positive Results (2022-11-17 15:00:40) — https://blog.humareso.com/relational-authenticity
