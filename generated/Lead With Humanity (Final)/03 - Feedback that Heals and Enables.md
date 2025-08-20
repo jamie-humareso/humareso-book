@@ -23,8 +23,11 @@ In the past month, I have heard from at least a handful of people who are sadden
 
 When I win that Academy Award, I will be thanking those who helped me to run after what I said I wanted to run after. I will feel satisfied with the accomplishment, and I should. However, the realized dream doesn’t mean I am done. There are other dreams to birth to fruition. I am an active being; so are you. And so are those you work with. We’re all running after it. It’s better to be a partner to as many as possible. Realizing this should influence your compassionate view of family, co-workers, even your boss! We all have dreams. What’s your dream?
 
+
+---
+
 <!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane -->
-!Humareso Blog Posts-1-Mr. CellophaneMy kids are talented. Obviously.
+Humareso Blog Posts-1-Mr. CellophaneMy kids are talented. Obviously.
 
 All throughout their childhoods, there were marked opportunities for greatness and future renown. Now, I know that every parent thinks this, but they’re wrong. My kids were the best (says every parent). My son was destined for MLB, my eldest daughter was going to be the next Matisse, and my youngest daughter was Broadway-bound. Look, I had great expectations.
 
@@ -54,8 +57,11 @@ Perhaps the worst thing that an employee could share about their experience is f
 
 Let’s not wait for the resignation for us to pay attention to the reliable workers in our companies. Don’t walk by another employee that you haven’t checked in with in months, years, ever.
 
+
+---
+
 <!-- Source: Born to Run - The Individual Call to Progress | 2025-06-17 18:00:14 | https://blog.humareso.com/born-to-run-the-individual-call-to-progress | born-to-run-the-individual-call-to-progress -->
-!Humareso Blog Posts-1-Born To Run
+Humareso Blog Posts-1-Born To Run
 
 The only way forward is progress, a rousing sentiment. But I have seen the opposite be the way forward—regress. Falling behind, disastrous choices, infighting, broken processes…shall I continue? We likely all have experienced some of this. Do we forego the pithy sentiment about progression?
 
@@ -70,6 +76,9 @@ Instead, if a department needs to do better, seek to address the individuals. Th
 It is not easy for a first-time supervisor to draw out such reflection from a team. It takes practice. If you are a first-time manager, give yourself some grace.
 
 And to those of you who get asked about progression and how you can participate, participate. Talk to your supervisor. Be gracious, thoughtful, and innovative. You do not need to be a doormat to do that. Focus on what you can do first. Or, I guess you could respond like Axl from **The Middle**, “…Together we are awesome. But alone, only I am still awesome.”
+
+
+---
 
 <!-- Source: What You Don't Know - Expectation Management and High Performance | 2025-01-28 17:45:00 | https://blog.humareso.com/what-you-dont-know-expectation-management-and-high-performance | what-you-dont-know-expectation-management-and-high-performance -->
 Marriage is one of the best examples of expectation management. As someone who has traveled this road for almost 27 years, I have messed up and fallen short of that expectation management often (shocking, right?). I thought she would know something I needed or wanted automatically. Guess what? She did not. And I didn’t know hers either. That’s part of the fun of figuring this out. However, it doesn’t always feel like fun. It can be tense, hurtful, and annoying.

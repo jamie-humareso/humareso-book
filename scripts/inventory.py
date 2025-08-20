@@ -64,6 +64,18 @@ def convert_html_to_markdown(html: str) -> str:
     # Remove any residual HubL templating
     md = re.sub(r"\{\%[\s\S]*?\%\}", " ", md)
     md = re.sub(r"\{\{[\s\S]*?\}\}", " ", md)
+    # Remove images or broken image artifacts (ONLY at line starts)
+    md = re.sub(r"^!\[[^\]]*\]\([^\)]+\)\s*", "", md, flags=re.M)
+    md = re.sub(r"^!\s*Image[^)\n]*\)\s*", "", md, flags=re.I | re.M)
+    md = re.sub(r"^!\s*Humareso[^)\n]*\)\s*", "", md, flags=re.I | re.M)
+    md = re.sub(r"^!\s*[^)\n]*\.(?:png|jpe?g|gif|webp)\)?\s*", "", md, flags=re.I | re.M)
+
+    # Normalize lists: ordered lists re-numbered, bullets unified to '- '
+    md = normalize_lists(md)
+    # Remove leading bang-artifacts like '!Humareso Blog Posts-...Trevor Noah' while keeping the sentence
+    md = clean_leading_bang_artifacts(md)
+    # Strip stray leading punctuation left by artifact removal
+    md = strip_leading_punctuation(md)
     return md.strip()
 
 
@@ -96,6 +108,79 @@ def split_tags(raw: str) -> List[str]:
 
 def ensure_dir(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
+
+
+def normalize_lists(md: str) -> str:
+    lines = md.splitlines()
+    out = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        # Detect ordered list block
+        if re.match(r"^\s*\d+\.\s+", line):
+            # ensure blank line before list if previous non-blank isn't list
+            if out and out[-1].strip() and not re.match(r"^\s*([\-*\+]\s+|\d+\.\s+)", out[-1]):
+                out.append("")
+            # collect block
+            block = []
+            while i < len(lines) and re.match(r"^\s*\d+\.\s+", lines[i]):
+                block.append(lines[i])
+                i += 1
+            # renumber
+            for idx, bl in enumerate(block, start=1):
+                bl = re.sub(r"^\s*\d+\.(\s+)", f"{idx}.\\1", bl)
+                out.append(bl)
+            # ensure blank line after block
+            if i < len(lines) and lines[i].strip():
+                out.append("")
+            continue
+        # Detect unordered list block
+        if re.match(r"^\s*[\-*\+]\s+", line):
+            if out and out[-1].strip() and not re.match(r"^\s*([\-*\+]\s+|\d+\.\s+)", out[-1]):
+                out.append("")
+            block = []
+            while i < len(lines) and re.match(r"^\s*[\-*\+]\s+", lines[i]):
+                block.append(lines[i])
+                i += 1
+            for bl in block:
+                bl = re.sub(r"^\s*[\-*\+]\s+", "- ", bl)
+                out.append(bl)
+            if i < len(lines) and lines[i].strip():
+                out.append("")
+            continue
+        out.append(line)
+        i += 1
+    return "\n".join(out)
+
+
+def clean_leading_bang_artifacts(md: str) -> str:
+    out_lines = []
+    for line in md.splitlines():
+        starts_with_noise = bool(re.match(r"^\s*!", line)) or bool(re.match(r"^\s*(?:Humareso\s+Blog\s+Posts?|Image)\b", line, flags=re.I))
+        if starts_with_noise:
+            # Prefer to cut to a likely sentence start token
+            starters = r"(The|In|There|We|I|It|He|She|They|A|An|On|At|Over|From|When|While|For|As|But)\b"
+            m2 = re.search(starters, line)
+            if m2:
+                line = line[m2.start():]
+            else:
+                # Fallback: first capitalized word followed by space
+                m = re.search(r"[A-Z][a-z]+\s", line)
+                if m:
+                    line = line[m.start():]
+                else:
+                    # Drop the artifact line entirely
+                    line = ""
+        out_lines.append(line)
+    return "\n".join(out_lines)
+
+
+def strip_leading_punctuation(md: str) -> str:
+    cleaned = []
+    for line in md.splitlines():
+        line = re.sub(r"^\s*[,;:)\]\u2019\u201d]+\s*", "", line)
+        cleaned.append(line)
+    return "\n".join(cleaned)
 
 
 def main() -> None:

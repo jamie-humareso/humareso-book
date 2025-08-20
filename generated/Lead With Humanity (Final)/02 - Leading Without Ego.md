@@ -1,7 +1,7 @@
 ---
 title: Leading Without Ego
 target_words: 6000
-estimated_words: 4078
+estimated_words: 4024
 ---
 
 # Leading Without Ego
@@ -26,6 +26,9 @@ perceive that I am better than most of my colleagues (which most do), then I wil
 I’ve known people who were great at tying a cherry stem into a knot with only their tongues. I have had successful tries, but not all of them were winners. A couple of friends of mine were incredibly talented at performing this feat. I could count on them every time. Think about the tasks that some of your employees can do successfully almost every time. Does that success mean effectiveness? I am not sure what overall goal tying cherry stems with your tongues would push a team towards (keep those thoughts in your head!), but if I just affirm that feat, I am causing performers to think more of that achievement than they ought.  
   
 However, if there are tasks that do build towards the whole, then have a right metric in place to affirm those contributions. Herein is where the “we’ve always done it this way” attitude can take hold. If someone is performing the same way but is never held accountable to a new system for success measurement, then you should not be upset with that employee. It’s management’s fault. Explain why the completion of that tasks isn’t enough anymore. Teach, train, coach and mentor. Effectiveness is not ready in 24 hours. It’s more a slow cooker when changing previous constructs. Keep the low heat going and stir regularly.
+
+
+---
 
 <!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise -->
 Gridlock has stymied countless organizations, governments and relationships. The unwavering “dig-in” of sides or individuals where blockades are erected to show how much certain ideas and position matter.  And to be fair, some of these blockades do matter. Values are real and ought to cause both protective and assertive action. The people will rise, hopefully, ready to compromise.
@@ -58,6 +61,9 @@ Learn more about our services!
 
 Tags:  Business, Compromise, Cooperation, management
 
+
+---
+
 <!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations -->
 Confidentially, who can you speak to confidentially? The circle of trust exists for all of us, whether detailed or happenstance. We know who we can talk to, really talk to. The hard truth is that there may not be as many as we might hope, perhaps even highlighting that there isn’t anyone we really trust at all.
 
@@ -77,8 +83,11 @@ The second step is to ask: What is my company doing to support functionally brok
 
 It is sad to watch a group of people live in such mistrust of one another. Backbiting is exhausting. Wearing masks to hide true feelings affects mental health. Why would anyone need to live like this? It’s okay for us to disconnect the mechanisms and change the construct. If, ultimately, it didn’t work out for DeNiro’s tough guy, how could we stand a chance? Fuggedaboutit.
 
+
+---
+
 <!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession -->
-!Humareso Blog Posts-45It’s a weird time. Yes, I know, there’s always something weird about society, but I am not sure we’ve seen such business realities colliding as we do today. We are on the precipice of an economic recession (if not already entered into it). The degree of severity for this recession is not yet known, but we’ve already seen major organizations, like Amazon and Meta, laying off tens of thousands of workers. In previous years where mass separation numbers like these occurred, employees hunkered down and hoped to keep their current positions. That is not the posture of today.
+. The degree of severity for this recession is not yet known, but we’ve already seen major organizations, like Amazon and Meta, laying off tens of thousands of workers. In previous years where mass separation numbers like these occurred, employees hunkered down and hoped to keep their current positions. That is not the posture of today.
 
 According to The Bureau of Labor and Statistics, most of 2022 saw Quit Rates tripling the Layoff Rate. For instance, in October of 2022, 1.4 million people were laid off, but 4 million people quit their job. We knew in October that a downturn was upon us. The news media was touting the layoffs at Twitter and DoorDash as signs of a tough economy coming home to roost in the US. So, why the brazen disregard for the signs by American workers?
 
@@ -92,8 +101,11 @@ We have employees who are bolder about living in authentic ways. That may very w
 
 Paying attention to the economy, job markets, competition and other indicators is our responsibility. This weird time doesn’t mean we should throw out the review of metrics. Look at what is happening but refrain from drawing the straight line that you used to. The results may vary.
 
+
+---
+
 <!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave -->
-!Humareso Blog Posts-9-Waiting for a girl like you (1).jpeg)In the movie **Life Itself**, Oscar Issac’s character, Will, has a great line about waiting for the right moment to ask out Abby (Olivia Wilde). He is waiting for the right moment because when he starts this relationship with her, he is all in. There won’t be any turning back. He wants to ask her out at the right moment to set that tone from the onset. He’s waiting with a purpose.
+.jpeg)In the movie **Life Itself**, Oscar Issac’s character, Will, has a great line about waiting for the right moment to ask out Abby (Olivia Wilde). He is waiting for the right moment because when he starts this relationship with her, he is all in. There won’t be any turning back. He wants to ask her out at the right moment to set that tone from the onset. He’s waiting with a purpose.
 
 And we might be working with some of those “waiters” as well. Over 90% of Gen Z and Millennial employees would like to change jobs this year. The percentage, however, falls dramatically when pushed as to whether they really will.
 
@@ -111,8 +123,11 @@ It's not too late to keep some people who may be thinking about a move, delayed 
 
 And to be clear, there are still employees leaving their roles now. We can’t look at data so hard and fast in all categories. The trend is not universal, nor should it be. Either way, taking a look at how you might influence a change in direction is worth your time.
 
+
+---
+
 <!-- Source: The Grouch: Getting Rid of the Curmudgeon in You | 2025-03-06 17:43:32 | https://blog.humareso.com/the-grouch-getting-rid-of-the-curmudgeon-in-you | the-grouch-getting-rid-of-the-curmudgeon-in-you -->
-!Humareso Blog Posts-1-The Grouch
+The Grouch
 
 The difficulty of being a curmudgeon is deep and wide. As a rapidly-becoming older person, the temptation to slide into the glass being perpetually half-empty becomes more appealing. “Nothing” will ever be as good as it once was, and it is my job to highlight those failures through an unwelcome twelve-point treatise. Now while I don’t actually do this (please God, don’t have me do this!), I am struck by how many do. We look back on what once was with rose-colored glasses, focusing solely on how good life once was (lies, all lies).
 

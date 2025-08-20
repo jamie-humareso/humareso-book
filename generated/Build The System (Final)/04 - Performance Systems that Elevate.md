@@ -1,13 +1,13 @@
 ---
 title: Performance Systems that Elevate
 target_words: 6000
-estimated_words: 734
+estimated_words: 732
 ---
 
 # Performance Systems that Elevate
 
 <!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts -->
-!Blog Post_Shake It Off (1).png)
+It Off (1).png)
 
 Hate. Just typing that word stops me in my tracks.
 

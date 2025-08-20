@@ -53,7 +53,7 @@ def main() -> None:
         ))
 
         prev_meta = None
-        for post_slug in ordered_posts:
+        for idx, post_slug in enumerate(ordered_posts):
             meta = slug_to_post.get(post_slug)
             if not meta:
                 continue
@@ -83,6 +83,9 @@ def main() -> None:
                 lines.append(md_path.read_text(encoding='utf-8').rstrip())
                 lines.append("")
             prev_meta = meta
+            # Insert a strong separator between articles
+            if idx < len(ordered_posts) - 1:
+                lines.append("\n---\n")
 
         # Endnotes: list posts
         lines.append("\n---\nSources\n")

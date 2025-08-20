@@ -1,7 +1,7 @@
 ---
 title: Hiring Decisions that Stick
 target_words: 6000
-estimated_words: 4965
+estimated_words: 4921
 ---
 
 # Hiring Decisions that Stick
@@ -13,13 +13,16 @@ Trendy is not always helpful. It usually isn’t, to be honest. In work, the lat
 
 How do we get serious?
 
-* **Slow and Steady test** – Not everything you read should be acted upon. That sentence may have just freed your mind. Even if it’s a promising idea, the bandwidth to tackle every opportunity is limited. Trying to put five good ideas into place at the same time may translate into five bad outcomes. And then trying to resuscitate them later is met with more resistance than you would have faced originally. The uphill climb is steeper, and the blame lies with you.
-* **Grain of Salt test** – Not everything that everyone writes or shares is correct. Boom, facts. Some people like to be trendy because it gets them likes and clicks. Their goals are different from yours. Take declarative and command statements with that grain of salt. Research more than one perspective and know the pros and cons. “Experts” may not have worked in the field for decades (or ever!) so be careful. We have the opportunity, sometimes only once, to sit with our leadership team and share these ideas; if we don’t come prepared, then we can lose credibility quickly.
-* **Truth or Dare test** – Relevance is a slippery slope. It’s not only the sharer of perspectives that is trying to be relevant, but the hearer and doer, too. Sometimes we can feel as though if we don’t do something, we might be seen as yesterday’s news. The action doesn’t make you relevant, but impact does. That’s why tried and true methods can still work and be adopted. The relevance isn’t in the trendiness but in the positive business impact, and that is ALWAYS relevant.
+- **Slow and Steady test** – Not everything you read should be acted upon. That sentence may have just freed your mind. Even if it’s a promising idea, the bandwidth to tackle every opportunity is limited. Trying to put five good ideas into place at the same time may translate into five bad outcomes. And then trying to resuscitate them later is met with more resistance than you would have faced originally. The uphill climb is steeper, and the blame lies with you.
+- **Grain of Salt test** – Not everything that everyone writes or shares is correct. Boom, facts. Some people like to be trendy because it gets them likes and clicks. Their goals are different from yours. Take declarative and command statements with that grain of salt. Research more than one perspective and know the pros and cons. “Experts” may not have worked in the field for decades (or ever!) so be careful. We have the opportunity, sometimes only once, to sit with our leadership team and share these ideas; if we don’t come prepared, then we can lose credibility quickly.
+- **Truth or Dare test** – Relevance is a slippery slope. It’s not only the sharer of perspectives that is trying to be relevant, but the hearer and doer, too. Sometimes we can feel as though if we don’t do something, we might be seen as yesterday’s news. The action doesn’t make you relevant, but impact does. That’s why tried and true methods can still work and be adopted. The relevance isn’t in the trendiness but in the positive business impact, and that is ALWAYS relevant.
 
 This is why we must be vigilant in our trendiness quotient. New ideas are important. We can’t just do things as we have without testing their impact and validity. But a better way to do things is not the same thing as being trendy. Trendiness becomes unappealing and ineffective in a short amount of time. Your team knows it.
 
 Listen, I’m not wearing either of those overalls at this point. And let’s be thankful for that!
+
+
+---
 
 <!-- Source: You're So Vain: The Egotism in Performance Appraisals | 2023-02-21 13:32:30 | https://blog.humareso.com/performance-appraisals | performance-appraisals -->
 For fans of 30 Rock, Jenna Maroney was the epitome of self-centeredness. She found herself often at an emotional crossroads when her performance on “TGS” was deemed less than stellar by her colleagues, writers or directors. Brilliantly played by Jane Krokowski, Jenna was the pinnacle of conceit, self-absorption and frailty. In many ways, Jenna is all of us when it comes to critique.  
@@ -42,6 +45,9 @@ I’ve known people who were great at tying a cherry stem into a knot with only 
   
 However, if there are tasks that do build towards the whole, then have a right metric in place to affirm those contributions. Herein is where the “we’ve always done it this way” attitude can take hold. If someone is performing the same way but is never held accountable to a new system for success measurement, then you should not be upset with that employee. It’s management’s fault. Explain why the completion of that tasks isn’t enough anymore. Teach, train, coach and mentor. Effectiveness is not ready in 24 hours. It’s more a slow cooker when changing previous constructs. Keep the low heat going and stir regularly.
 
+
+---
+
 <!-- Source: A Different Corner | 2023-06-09 14:50:24 | https://blog.humareso.com/a-different-corner | a-different-corner -->
 What if one decision alters the course of your life? What if it’s multiple decisions? Chance encounters, missing out on a job opening, picking one bar over another to hang on a Friday night…all of these can limit or expand whom you meet, or they can change circumstances from which you make decisions. Not to give it all away, but yes, one decision can alter the course of your life.
 
@@ -56,6 +62,9 @@ Let’s affirm one thing to start – you are right where you are supposed to be
 The shroud of regret blinds us to the whole picture and to the context of what is really in front of us. In 2016, The Atlantic published an article that explored this idea of regret costs based upon one main premise – *“The tradeoff for moving our own pieces is that sometimes we make mistakes, and we have to live with them.”* Accepting this basic truth is the start to a healthier approach to what is and to what could be next.
 
 Your life is not disappointing because you did not take one job over another. Early on in my career, I had the opportunity to work for **TV Guide** (if you don’t know what this is, I weep for you). Looking back on it, I should have said yes. I turned the role down. It did not have all of the things I wanted it to have. I was short-sighted and immature. I can see that today. However, I am not supposed to live in regret and disappointment over thirty years later. I ought to be able to look at it, see it for what it was (a learning opportunity), and then move on.
+
+
+---
 
 <!-- Source: Do You Hear the People Sing? | 2020-11-05 05:00:00 | https://blog.humareso.com/do-you-hear-the-people-sing-compromise | do-you-hear-the-people-sing-compromise -->
 Gridlock has stymied countless organizations, governments and relationships. The unwavering “dig-in” of sides or individuals where blockades are erected to show how much certain ideas and position matter.  And to be fair, some of these blockades do matter. Values are real and ought to cause both protective and assertive action. The people will rise, hopefully, ready to compromise.
@@ -88,6 +97,9 @@ Learn more about our services!
 
 Tags:  Business, Compromise, Cooperation, management
 
+
+---
+
 <!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments -->
 The Philadelphia Zoo is the oldest zoo in the United States, originally opening as the Philadelphia Zoological Gardens in 1874. And as early as I can remember, I loved the zoo. The smell, not so much, but the overall zoo is amazing. I recall getting my first Zoo Key (big stuff in 1975) which allowed me to turn on the secret recordings of information about certain animals throughout the property. And while these callbox speakers sounded exactly like a teacher from Charlie Brown’s world, I would listen to them over and over again as I canvased every exhibit.
 
@@ -106,6 +118,9 @@ Environments matter. And lest you think that those roles working from home must 
 Transparently, organizations struggle regularly with creating healthy habitats for our teams to thrive. The privilege of asking our teams what might help them to do so is one distinct area we have that the Bronx Zoo does not. We can work collaboratively with our teams to build challenging learning pathways and supportive, innovative teamwork opportunities. We can offer options, and we start by saying we are committed to doing so.
 
 Organizations that build healthy environments are more productive. This is not news, but it is the Achilles heel of many an organization. Likely, attention has been diverted to other things that seem more pressing. Be mindful of the environment being built and how you can be a proactive champion for its construction. Work with other key stakeholders to craft an environment that inspires and provokes people to success.
+
+
+---
 
 <!-- Source: Voices Carry: Relational Mistrust in Organizations | 2022-07-06 16:17:19 | https://blog.humareso.com/voices-carry-relational-mistrust-in-organizations | voices-carry-relational-mistrust-in-organizations -->
 Confidentially, who can you speak to confidentially? The circle of trust exists for all of us, whether detailed or happenstance. We know who we can talk to, really talk to. The hard truth is that there may not be as many as we might hope, perhaps even highlighting that there isn’t anyone we really trust at all.
@@ -126,6 +141,9 @@ The second step is to ask: What is my company doing to support functionally brok
 
 It is sad to watch a group of people live in such mistrust of one another. Backbiting is exhausting. Wearing masks to hide true feelings affects mental health. Why would anyone need to live like this? It’s okay for us to disconnect the mechanisms and change the construct. If, ultimately, it didn’t work out for DeNiro’s tough guy, how could we stand a chance? Fuggedaboutit.
 
+
+---
+
 <!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity -->
 In The Return of the King, there is a scene at the top of the Orthanc where Saruman affirms the loyalty of Grima Wormtongue to Gandalf far below. Saruman is dismissive of Grima, who is standing there and could speak for himself, and implies that there is nothing that could change the mind of the lowly servant. King Theoden offers to Grima what Saruman cannot – love through forgiveness and in recalling what it means to be part of a community. Theoden reminds Grima that he was once a man of Rohan and can be one again. What Saruman fails to see is that wanting to be treated with love and forgiveness can drive someone who has been without it to extremes. In this case, and aptly done, it leads to Saruman being stabbed by Grima Wormtongue.
 
@@ -139,8 +157,11 @@ You are the one to intervene and work to establish honest, fruitful treatment of
 
 Yes, it’s tiring. And often, you may be left out in the cold while trying to change the mechanic of conditional love and engagement. Stay the course. Value will be found in the long-term when we can look back on activated change in how people affirm and treat one another. It feels idealistic only because we’ve made it so. We have allowed too much time to elapse without correcting this broken system. That does not make what it ought to be a fairy tale, but rather, a lost art. It’s time to practice it once again.
 
+
+---
+
 <!-- Source: Take This Job and Shove It: Quitting During a Recession | 2023-01-04 17:48:44 | https://blog.humareso.com/quitting-during-a-recession | quitting-during-a-recession -->
-!Humareso Blog Posts-45It’s a weird time. Yes, I know, there’s always something weird about society, but I am not sure we’ve seen such business realities colliding as we do today. We are on the precipice of an economic recession (if not already entered into it). The degree of severity for this recession is not yet known, but we’ve already seen major organizations, like Amazon and Meta, laying off tens of thousands of workers. In previous years where mass separation numbers like these occurred, employees hunkered down and hoped to keep their current positions. That is not the posture of today.
+. The degree of severity for this recession is not yet known, but we’ve already seen major organizations, like Amazon and Meta, laying off tens of thousands of workers. In previous years where mass separation numbers like these occurred, employees hunkered down and hoped to keep their current positions. That is not the posture of today.
 
 According to The Bureau of Labor and Statistics, most of 2022 saw Quit Rates tripling the Layoff Rate. For instance, in October of 2022, 1.4 million people were laid off, but 4 million people quit their job. We knew in October that a downturn was upon us. The news media was touting the layoffs at Twitter and DoorDash as signs of a tough economy coming home to roost in the US. So, why the brazen disregard for the signs by American workers?
 

@@ -25,6 +25,9 @@ Fostering deeper business relationships, speaking at dozens of conferences and e
 
 I’m not sure I could have imagined today when I first started. My family encouraged me towards it; they encouraged me away from my fears and into the greatness they saw coming. I have been broken and blessed, which is a path for all of us. For it is in that reality that truth comes shining through – the things you can count on, the beliefs that will truly guide. And as I sit here with ten years of Humareso success to celebrate, I know that there is still more to come. The sun will continue to show those paths, and the fortune found in deepening relationships and positively changed organizations will be the legacy I strive towards. Cheers to Humareso and to all of you for making it so.
 
+
+---
+
 <!-- Source: Coming Up - Joy at Work, Home and Within Self | 2022-12-09 15:26:00 | https://blog.humareso.com/coming-up | coming-up -->
 Afresh. That’s the word for 2023. Yup, I’ve decided. Feel free to use the word in sentences throughout the year. “Hmm, I am tired of these clothes. Maybe if I pair things afresh, I won’t hate everything I own in my closet.” “The marriage is stale. The relationship needs some life afresh.” “While I appreciate the dinner you’ve made, looking at your recipes afresh would be a welcome change.” (Let me know how that one goes)
 
@@ -43,6 +46,9 @@ The challenge of joy is that we want to feel it every day. Listen, I love my thr
 Our organizations need us to push for fresh looks. The messaging of 2022 included a push to bring your whole self to work. Some of you might not be excited about that, not because work shouldn’t ask for that (that’s an entirely different blog post!), but because you haven’t been thrilled with who you are. That’s okay. Today is the day to approach yourself afresh. It’s not about resolutions, but it’s about commitment, habits to encourage those commitments and surrounding yourself with people who will love you through those commitments.
 
 The next year is yours. Every year is yours, though. Don’t allow another day to go by without reflection and a path towards patterned change in your life. Yes, work needs you to be your healthiest. Your relationships need that, too. You need you to be your stabilized best. It’s time for life afresh.
+
+
+---
 
 <!-- Source: Wedding Bell Blues – The First Steps to an HR Tech Stack | 2023-05-11 11:00:00 | https://blog.humareso.com/first-steps-to-an-hr-tech-stack | first-steps-to-an-hr-tech-stack -->
 When you’re five years old, a wedding cake looks massive. It’s not to say that at six feet, three inches, these cakes are minuscule now, but as a young boy, I was a ring bearer for the first time at five years old. I got to do that job a couple of times, actually. And one of my favorite parts of it all was the dessert. The sweet table filled with various cookies, mini-cakes, and other sugary dreams had my already large eyes bugging out of my head. However, the many-tiered wedding cake was a full stop for me. Yes, please, and multiple slices.

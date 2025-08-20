@@ -1,7 +1,7 @@
 ---
 title: Seeing the Person at Work
 target_words: 6000
-estimated_words: 7028
+estimated_words: 6981
 ---
 
 # Seeing the Person at Work
@@ -13,13 +13,16 @@ Trendy is not always helpful. It usually isn’t, to be honest. In work, the lat
 
 How do we get serious?
 
-* **Slow and Steady test** – Not everything you read should be acted upon. That sentence may have just freed your mind. Even if it’s a promising idea, the bandwidth to tackle every opportunity is limited. Trying to put five good ideas into place at the same time may translate into five bad outcomes. And then trying to resuscitate them later is met with more resistance than you would have faced originally. The uphill climb is steeper, and the blame lies with you.
-* **Grain of Salt test** – Not everything that everyone writes or shares is correct. Boom, facts. Some people like to be trendy because it gets them likes and clicks. Their goals are different from yours. Take declarative and command statements with that grain of salt. Research more than one perspective and know the pros and cons. “Experts” may not have worked in the field for decades (or ever!) so be careful. We have the opportunity, sometimes only once, to sit with our leadership team and share these ideas; if we don’t come prepared, then we can lose credibility quickly.
-* **Truth or Dare test** – Relevance is a slippery slope. It’s not only the sharer of perspectives that is trying to be relevant, but the hearer and doer, too. Sometimes we can feel as though if we don’t do something, we might be seen as yesterday’s news. The action doesn’t make you relevant, but impact does. That’s why tried and true methods can still work and be adopted. The relevance isn’t in the trendiness but in the positive business impact, and that is ALWAYS relevant.
+- **Slow and Steady test** – Not everything you read should be acted upon. That sentence may have just freed your mind. Even if it’s a promising idea, the bandwidth to tackle every opportunity is limited. Trying to put five good ideas into place at the same time may translate into five bad outcomes. And then trying to resuscitate them later is met with more resistance than you would have faced originally. The uphill climb is steeper, and the blame lies with you.
+- **Grain of Salt test** – Not everything that everyone writes or shares is correct. Boom, facts. Some people like to be trendy because it gets them likes and clicks. Their goals are different from yours. Take declarative and command statements with that grain of salt. Research more than one perspective and know the pros and cons. “Experts” may not have worked in the field for decades (or ever!) so be careful. We have the opportunity, sometimes only once, to sit with our leadership team and share these ideas; if we don’t come prepared, then we can lose credibility quickly.
+- **Truth or Dare test** – Relevance is a slippery slope. It’s not only the sharer of perspectives that is trying to be relevant, but the hearer and doer, too. Sometimes we can feel as though if we don’t do something, we might be seen as yesterday’s news. The action doesn’t make you relevant, but impact does. That’s why tried and true methods can still work and be adopted. The relevance isn’t in the trendiness but in the positive business impact, and that is ALWAYS relevant.
 
 This is why we must be vigilant in our trendiness quotient. New ideas are important. We can’t just do things as we have without testing their impact and validity. But a better way to do things is not the same thing as being trendy. Trendiness becomes unappealing and ineffective in a short amount of time. Your team knows it.
 
 Listen, I’m not wearing either of those overalls at this point. And let’s be thankful for that!
+
+
+---
 
 <!-- Source: Ten Years: John Baldino Celebrates Humareso’s Impact in Human Resources | 2022-08-01 17:30:00 | https://blog.humareso.com/john-baldino-celebrates-ten-years-of-humareso | john-baldino-celebrates-ten-years-of-humareso -->
 In the song, “Ten Years” by Paul Simon, he pens:
@@ -40,6 +43,9 @@ Fostering deeper business relationships, speaking at dozens of conferences and e
 
 I’m not sure I could have imagined today when I first started. My family encouraged me towards it; they encouraged me away from my fears and into the greatness they saw coming. I have been broken and blessed, which is a path for all of us. For it is in that reality that truth comes shining through – the things you can count on, the beliefs that will truly guide. And as I sit here with ten years of Humareso success to celebrate, I know that there is still more to come. The sun will continue to show those paths, and the fortune found in deepening relationships and positively changed organizations will be the legacy I strive towards. Cheers to Humareso and to all of you for making it so.
 
+
+---
+
 <!-- Source: Wild Wild Life: The Need for Healthy Work Environments | 2022-09-08 16:40:51 | https://blog.humareso.com/wild-wild-life-the-need-for-healthy-work-environments | wild-wild-life-the-need-for-healthy-work-environments -->
 The Philadelphia Zoo is the oldest zoo in the United States, originally opening as the Philadelphia Zoological Gardens in 1874. And as early as I can remember, I loved the zoo. The smell, not so much, but the overall zoo is amazing. I recall getting my first Zoo Key (big stuff in 1975) which allowed me to turn on the secret recordings of information about certain animals throughout the property. And while these callbox speakers sounded exactly like a teacher from Charlie Brown’s world, I would listen to them over and over again as I canvased every exhibit.
 
@@ -58,6 +64,9 @@ Environments matter. And lest you think that those roles working from home must 
 Transparently, organizations struggle regularly with creating healthy habitats for our teams to thrive. The privilege of asking our teams what might help them to do so is one distinct area we have that the Bronx Zoo does not. We can work collaboratively with our teams to build challenging learning pathways and supportive, innovative teamwork opportunities. We can offer options, and we start by saying we are committed to doing so.
 
 Organizations that build healthy environments are more productive. This is not news, but it is the Achilles heel of many an organization. Likely, attention has been diverted to other things that seem more pressing. Be mindful of the environment being built and how you can be a proactive champion for its construction. Work with other key stakeholders to craft an environment that inspires and provokes people to success.
+
+
+---
 
 <!-- Source: Coming Up - Joy at Work, Home and Within Self | 2022-12-09 15:26:00 | https://blog.humareso.com/coming-up | coming-up -->
 Afresh. That’s the word for 2023. Yup, I’ve decided. Feel free to use the word in sentences throughout the year. “Hmm, I am tired of these clothes. Maybe if I pair things afresh, I won’t hate everything I own in my closet.” “The marriage is stale. The relationship needs some life afresh.” “While I appreciate the dinner you’ve made, looking at your recipes afresh would be a welcome change.” (Let me know how that one goes)
@@ -78,6 +87,9 @@ Our organizations need us to push for fresh looks. The messaging of 2022 include
 
 The next year is yours. Every year is yours, though. Don’t allow another day to go by without reflection and a path towards patterned change in your life. Yes, work needs you to be your healthiest. Your relationships need that, too. You need you to be your stabilized best. It’s time for life afresh.
 
+
+---
+
 <!-- Source: SHRM22 – A Call for Mental Health Support | 2022-06-21 16:35:09 | https://blog.humareso.com/shrm22-a-call-for-mental-health-support | shrm22-a-call-for-mental-health-support -->
 1 in 4. If you were to have a one in four chance of winning the lottery, you would play. Those chances are a no-brainer.
 
@@ -97,6 +109,9 @@ And while SHRM22 did not disappoint in bringing people back together and remindi
 
 Let us be inspired to build up, to resource up and to frame up healthier workplaces. We are so often the joy-givers in our companies. Today, rise and offer that joy like there’s no tomorrow.
 
+
+---
+
 <!-- Source: What Have I Done to Deserve This? | 2022-08-19 20:57:42 | https://blog.humareso.com/what-have-i-done-to-deserve-this | what-have-i-done-to-deserve-this -->
 There are three young adults who have eaten my food, slept in my house and spent my money for years. They are tremendous. Those who know me have probably heard me share that no less than 10,000 times. Frank, Olivia and Cassandra are bright, funny, kind and loving. Truly awesome people. However, they are not without their vices. And corporately, don’t let them be in a room when an episode of **Maury** is on. They will watch to the end to see if the man in question is the father of the other guest’s child. They jump around just like the guests and studio audience in disbelief of the results. As the dad watching this, I wind up laughing hysterically, not at the show, but at their responses.
 
@@ -112,6 +127,9 @@ There is often a joke about HR being the counseling department. I understand whe
 
 *(For some additional thoughts on how and why to listen, look back at “*Leave A Tender Moment Alone*”)*
 
+
+---
+
 <!-- Source: Love Plus One: Relational Authenticity Produces Positive Results | 2022-11-17 15:00:40 | https://blog.humareso.com/relational-authenticity | relational-authenticity -->
 In The Return of the King, there is a scene at the top of the Orthanc where Saruman affirms the loyalty of Grima Wormtongue to Gandalf far below. Saruman is dismissive of Grima, who is standing there and could speak for himself, and implies that there is nothing that could change the mind of the lowly servant. King Theoden offers to Grima what Saruman cannot – love through forgiveness and in recalling what it means to be part of a community. Theoden reminds Grima that he was once a man of Rohan and can be one again. What Saruman fails to see is that wanting to be treated with love and forgiveness can drive someone who has been without it to extremes. In this case, and aptly done, it leads to Saruman being stabbed by Grima Wormtongue.
 
@@ -125,8 +143,11 @@ You are the one to intervene and work to establish honest, fruitful treatment of
 
 Yes, it’s tiring. And often, you may be left out in the cold while trying to change the mechanic of conditional love and engagement. Stay the course. Value will be found in the long-term when we can look back on activated change in how people affirm and treat one another. It feels idealistic only because we’ve made it so. We have allowed too much time to elapse without correcting this broken system. That does not make what it ought to be a fairy tale, but rather, a lost art. It’s time to practice it once again.
 
+
+---
+
 <!-- Source: Promises, Promises: The Wooing of Candidates | 2023-10-05 15:48:25 | https://blog.humareso.com/wooing-candidates | wooing-candidates -->
-!Humareso Blog Posts-6-PromisesThe wooing of talent takes skill, determination, availability…and a bit of luck. We don’t like that luck part. It’s out of our control. I can make myself available. I can improve my skills in rapport development, full spectrum sourcing, and job marketing. I can put the dedicated time in. But catching someone at the right place, right time and in the right mood? That isn’t in our control.
+The wooing of talent takes skill, determination, availability…and a bit of luck. We don’t like that luck part. It’s out of our control. I can make myself available. I can improve my skills in rapport development, full spectrum sourcing, and job marketing. I can put the dedicated time in. But catching someone at the right place, right time and in the right mood? That isn’t in our control.
 
 The default for some recruiting pros and hiring managers is to overpromise in order to manufacture luck. Creative career mapping opportunities are well-delivered but based upon no actual history of offering such options to existing staff. A commitment to knowledge deepening is espoused, but often there is no time or budget committed to this endeavor. Warm affirmations regarding the company values are wrapped like a blanket around the candidate, but the existing staff have yet to find that blanket.
 
@@ -144,8 +165,11 @@ Thirdly, never underestimate the power of a realistic job preview. Offer the can
 
 Promises aren’t the enemy; it’s the delivery and the follow-through. Can you confidently stand behind what you have just promised? Is it a real possibility or is it wishful thinking? You know which one it is; don’t lie to yourself, and certainly don’t lie to the candidate.
 
+
+---
+
 <!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove -->
-!Humareso Blog Posts-15-LoveI had the chance to watch a rerun of The Love Boat recently. Yes, Pluto TV and I are good friends. I get to watch lots of old programming (The Price is Right – The Barker Years is a particular treat), and I often have an episode with the Pacific Princess playing on a Sunday afternoon while I prep for the week ahead. The guest stars are absolutely amazing. Don’t scoff. Take a peek at the long list of A-listers that rubbed elbows with the D-Listers. On this particular episode, Eddie Mekka played a high school friend of “Julie, Your Cruise Director” (it’s a requirement to say it together) who, within 30 seconds of being on the ship, sees the love of his life. He didn’t speak to her. He hadn’t heard her voice. He just saw her from afar and decided that she was “the one.” And, of course, in true Love Boat fashion, that three-day cruise, after some fumbling and lying, proved his wish to be granted. He and Audrey Landers left the boat with plans to marry. See? Easy.  
+and I often have an episode with the Pacific Princess playing on a Sunday afternoon while I prep for the week ahead. The guest stars are absolutely amazing. Don’t scoff. Take a peek at the long list of A-listers that rubbed elbows with the D-Listers. On this particular episode, Eddie Mekka played a high school friend of “Julie, Your Cruise Director” (it’s a requirement to say it together) who, within 30 seconds of being on the ship, sees the love of his life. He didn’t speak to her. He hadn’t heard her voice. He just saw her from afar and decided that she was “the one.” And, of course, in true Love Boat fashion, that three-day cruise, after some fumbling and lying, proved his wish to be granted. He and Audrey Landers left the boat with plans to marry. See? Easy.  
   
 It got me thinking about how we approach career opportunities in a similar fashion. We look to fall in love and to do so quickly.  
   
@@ -159,8 +183,11 @@ Look, I love that people want to work with the awesome team that’s been assemb
   
 This prep work will balance out the emotional desire to “just know” that this is the right place for your next role. There is nothing wrong with enjoying a stroll around the deck in the moonlight while wearing a chiffon gown. However, the engine room, the laundry room and the staff quarters are just as important to get a true view if you’re planning on investing yourself on that ship.
 
+
+---
+
 <!-- Source: Shake It Off: When the Haters' Hate Really Hurts | 2025-07-30 17:28:56 | https://blog.humareso.com/shake-it-off-when-the-haters-hate-really-hurts | shake-it-off-when-the-haters-hate-really-hurts -->
-!Blog Post_Shake It Off (1).png)
+It Off (1).png)
 
 Hate. Just typing that word stops me in my tracks.
 
@@ -182,8 +209,11 @@ This blog is a tough one to write. I tend to operate with a glass-half-full ment
 
 Let’s take a few moments to check in on our colleagues. This work is hard. Those standing up for others and for ideals need support. Those working hard to build a brand need support. Those trying to improve themselves need support. We can be more committed to that and learn better how to let the effects of hate roll off our backs.
 
+
+---
+
 <!-- Source: Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude | 2025-02-18 20:15:21 | https://blog.humareso.com/wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude | wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude -->
-!Humareso Blog Posts-1-Wicked Game
+Humareso Blog Posts-1-Wicked Game
 
 Have you seen that hilarious commercial for the Aunts? Geico has put out some incredible commercials through the years, and this one is no exception. The concept of uninvited houseguests who also happen to be aunts of the homeowners is an approachable setup for the viewer. You may likely have an aunt like that. She comes into the home and comments on everything; it’s like a wicked game for these aunts. Our feelings of inadequacy rise to the surface. Ah, good times. To tap into such emotions, albeit tension and toxicity, brings a shared experience to life. That is the mark of a great commercial. Even though it’s been four years since its initial release, the commercial is still being played currently.
 

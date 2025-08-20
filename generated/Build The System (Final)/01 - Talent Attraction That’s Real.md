@@ -1,13 +1,13 @@
 ---
 title: Talent Attraction That’s Real
 target_words: 6000
-estimated_words: 4854
+estimated_words: 4795
 ---
 
 # Talent Attraction That’s Real
 
 <!-- Source: Promises, Promises: The Wooing of Candidates | 2023-10-05 15:48:25 | https://blog.humareso.com/wooing-candidates | wooing-candidates -->
-!Humareso Blog Posts-6-PromisesThe wooing of talent takes skill, determination, availability…and a bit of luck. We don’t like that luck part. It’s out of our control. I can make myself available. I can improve my skills in rapport development, full spectrum sourcing, and job marketing. I can put the dedicated time in. But catching someone at the right place, right time and in the right mood? That isn’t in our control.
+The wooing of talent takes skill, determination, availability…and a bit of luck. We don’t like that luck part. It’s out of our control. I can make myself available. I can improve my skills in rapport development, full spectrum sourcing, and job marketing. I can put the dedicated time in. But catching someone at the right place, right time and in the right mood? That isn’t in our control.
 
 The default for some recruiting pros and hiring managers is to overpromise in order to manufacture luck. Creative career mapping opportunities are well-delivered but based upon no actual history of offering such options to existing staff. A commitment to knowledge deepening is espoused, but often there is no time or budget committed to this endeavor. Warm affirmations regarding the company values are wrapped like a blanket around the candidate, but the existing staff have yet to find that blanket.
 
@@ -25,20 +25,8 @@ Thirdly, never underestimate the power of a realistic job preview. Offer the can
 
 Promises aren’t the enemy; it’s the delivery and the follow-through. Can you confidently stand behind what you have just promised? Is it a real possibility or is it wishful thinking? You know which one it is; don’t lie to yourself, and certainly don’t lie to the candidate.
 
-<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove -->
-!Humareso Blog Posts-15-LoveI had the chance to watch a rerun of The Love Boat recently. Yes, Pluto TV and I are good friends. I get to watch lots of old programming (The Price is Right – The Barker Years is a particular treat), and I often have an episode with the Pacific Princess playing on a Sunday afternoon while I prep for the week ahead. The guest stars are absolutely amazing. Don’t scoff. Take a peek at the long list of A-listers that rubbed elbows with the D-Listers. On this particular episode, Eddie Mekka played a high school friend of “Julie, Your Cruise Director” (it’s a requirement to say it together) who, within 30 seconds of being on the ship, sees the love of his life. He didn’t speak to her. He hadn’t heard her voice. He just saw her from afar and decided that she was “the one.” And, of course, in true Love Boat fashion, that three-day cruise, after some fumbling and lying, proved his wish to be granted. He and Audrey Landers left the boat with plans to marry. See? Easy.  
-  
-It got me thinking about how we approach career opportunities in a similar fashion. We look to fall in love and to do so quickly.  
-  
-Be honest. Haven’t you walked into an interview or logged onto your video appointment hoping to get “that feeling?” It’s not to say that you don’t care about the work, the community or the structure of the organization. It’s just that you might want to get the butterflies in your belly first.  
-  
-Walking in holistically prepared for that interview (throughout the whole process, actually) is likely the best way to avoid a sensory-biased decision-making process. Have a plan of engagement which includes your perspectives and questions based upon some legwork you’ve done regarding the company’s work, history, reviews, cultural insights, etc. Remember, this is an interview for the organization as much as it is for you.  
-  
-I am in the throws of some hiring now. Truthfully, I am keeping track of the approach. Less than 8% of those I am interviewing ask any questions…at all. I specifically leave time towards the end of the interview to invite the asking of anything about the organization. More than 90% of the time, the interviewee says something like, “Thank you, but I don’t have any questions. I just want to say how excited I am about this opportunity.”  
-  
-Look, I love that people want to work with the awesome team that’s been assembled (Avengers!), but there should be things about the company that you would want to know. Ask about the organization’s commitment to excellence in its work. Ask about how an equitable environment has been created and fostered (and if it’s not yet there, ask about what the hold up is). Ask about why this role is open. If it’s an additional role, ask how it was determined that this was the right time to add. If it’s a replacement role, ask why the previous employee moved out of the job. Ask about the manner with which investment in the persons of the company are made, not just in benefits (certainly including this, though), but also in areas of competency development, work-life integration, community involvement and the like.  
-  
-This prep work will balance out the emotional desire to “just know” that this is the right place for your next role. There is nothing wrong with enjoying a stroll around the deck in the moonlight while wearing a chiffon gown. However, the engine room, the laundry room and the staff quarters are just as important to get a true view if you’re planning on investing yourself on that ship.
+
+---
 
 <!-- Source: Needle in a Haystack: Finding Candidates through Passive Sourcing | 2023-08-16 14:15:00 | https://blog.humareso.com/passive-sourcing | passive-sourcing -->
 Finding qualified candidates is a constant desire of businesses. It’s like finding a needle in a haystack sometimes. How to best do it has been up for debate, but the numbers are showing a clear winner. 73% of potential candidates are passive job seekers. That means the majority of candidates are coming from an organization’s research to find and the consistent labor it takes to connect to a candidate who doesn’t know they’re a candidate…yet. This passive sourcing is the technique of the wise organization who wants to be proactive while maintaining the competency levels needed to successfully perform the work.
@@ -59,8 +47,29 @@ The struggle today is that many companies don’t have the time or the staff to 
 
 There are organization, and pique interest enough to get that person into the candidate pool. Easy? Nope. Time-Consuming? Yup. However, all research continues to point to passive sourcing as being the most pronounced method of recruitment to use.
 
+
+---
+
+<!-- Source: I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring | 2023-04-04 17:07:09 | https://blog.humareso.com/ithinkitslove | ithinkitslove -->
+and I often have an episode with the Pacific Princess playing on a Sunday afternoon while I prep for the week ahead. The guest stars are absolutely amazing. Don’t scoff. Take a peek at the long list of A-listers that rubbed elbows with the D-Listers. On this particular episode, Eddie Mekka played a high school friend of “Julie, Your Cruise Director” (it’s a requirement to say it together) who, within 30 seconds of being on the ship, sees the love of his life. He didn’t speak to her. He hadn’t heard her voice. He just saw her from afar and decided that she was “the one.” And, of course, in true Love Boat fashion, that three-day cruise, after some fumbling and lying, proved his wish to be granted. He and Audrey Landers left the boat with plans to marry. See? Easy.  
+  
+It got me thinking about how we approach career opportunities in a similar fashion. We look to fall in love and to do so quickly.  
+  
+Be honest. Haven’t you walked into an interview or logged onto your video appointment hoping to get “that feeling?” It’s not to say that you don’t care about the work, the community or the structure of the organization. It’s just that you might want to get the butterflies in your belly first.  
+  
+Walking in holistically prepared for that interview (throughout the whole process, actually) is likely the best way to avoid a sensory-biased decision-making process. Have a plan of engagement which includes your perspectives and questions based upon some legwork you’ve done regarding the company’s work, history, reviews, cultural insights, etc. Remember, this is an interview for the organization as much as it is for you.  
+  
+I am in the throws of some hiring now. Truthfully, I am keeping track of the approach. Less than 8% of those I am interviewing ask any questions…at all. I specifically leave time towards the end of the interview to invite the asking of anything about the organization. More than 90% of the time, the interviewee says something like, “Thank you, but I don’t have any questions. I just want to say how excited I am about this opportunity.”  
+  
+Look, I love that people want to work with the awesome team that’s been assembled (Avengers!), but there should be things about the company that you would want to know. Ask about the organization’s commitment to excellence in its work. Ask about how an equitable environment has been created and fostered (and if it’s not yet there, ask about what the hold up is). Ask about why this role is open. If it’s an additional role, ask how it was determined that this was the right time to add. If it’s a replacement role, ask why the previous employee moved out of the job. Ask about the manner with which investment in the persons of the company are made, not just in benefits (certainly including this, though), but also in areas of competency development, work-life integration, community involvement and the like.  
+  
+This prep work will balance out the emotional desire to “just know” that this is the right place for your next role. There is nothing wrong with enjoying a stroll around the deck in the moonlight while wearing a chiffon gown. However, the engine room, the laundry room and the staff quarters are just as important to get a true view if you’re planning on investing yourself on that ship.
+
+
+---
+
 <!-- Source: Waiting for a Girl Like You: Is Your Talent About to Leave? | 2024-03-26 18:11:08 | https://blog.humareso.com/is-your-talent-about-to-leave | is-your-talent-about-to-leave -->
-!Humareso Blog Posts-9-Waiting for a girl like you (1).jpeg)In the movie **Life Itself**, Oscar Issac’s character, Will, has a great line about waiting for the right moment to ask out Abby (Olivia Wilde). He is waiting for the right moment because when he starts this relationship with her, he is all in. There won’t be any turning back. He wants to ask her out at the right moment to set that tone from the onset. He’s waiting with a purpose.
+.jpeg)In the movie **Life Itself**, Oscar Issac’s character, Will, has a great line about waiting for the right moment to ask out Abby (Olivia Wilde). He is waiting for the right moment because when he starts this relationship with her, he is all in. There won’t be any turning back. He wants to ask her out at the right moment to set that tone from the onset. He’s waiting with a purpose.
 
 And we might be working with some of those “waiters” as well. Over 90% of Gen Z and Millennial employees would like to change jobs this year. The percentage, however, falls dramatically when pushed as to whether they really will.
 
@@ -78,8 +87,11 @@ It's not too late to keep some people who may be thinking about a move, delayed 
 
 And to be clear, there are still employees leaving their roles now. We can’t look at data so hard and fast in all categories. The trend is not universal, nor should it be. Either way, taking a look at how you might influence a change in direction is worth your time.
 
+
+---
+
 <!-- Source: Made You Look: Talent Attraction at Its Finest | 2025-04-24 16:21:40 | https://blog.humareso.com/made-you-look-talent-attraction-at-its-finest | made-you-look-talent-attraction-at-its-finest -->
-!Humareso Blog Posts-1-Made You Look (1).jpeg)
+.jpeg)
 
 Talent attraction is ambiguous. There are a series of questions that might help us to define a path towards it. What will it take to get a candidate to be drawn to what our organization has to offer? Is it compensation? Benefits? Mobility or flexibility? Advancement? Is it all this and more? So, how do you know what to focus on?
 
@@ -99,8 +111,11 @@ Think about the messaging. What does it tell others about the organization? Hear
 
 Lastly, stay authentic to what the company really is. Overpromising is a death sentence. Employees will share with a new employee, usually within the first week, as to what the truths are. The leather pants are not a lasting strategy. Take them off (er, wait a minute, that’s not what I meant).
 
+
+---
+
 <!-- Source: Mr Cellophane | 2025-02-04 15:30:00 | https://blog.humareso.com/mr-cellophane | mr-cellophane -->
-!Humareso Blog Posts-1-Mr. CellophaneMy kids are talented. Obviously.
+Humareso Blog Posts-1-Mr. CellophaneMy kids are talented. Obviously.
 
 All throughout their childhoods, there were marked opportunities for greatness and future renown. Now, I know that every parent thinks this, but they’re wrong. My kids were the best (says every parent). My son was destined for MLB, my eldest daughter was going to be the next Matisse, and my youngest daughter was Broadway-bound. Look, I had great expectations.
 
@@ -130,8 +145,11 @@ Perhaps the worst thing that an employee could share about their experience is f
 
 Let’s not wait for the resignation for us to pay attention to the reliable workers in our companies. Don’t walk by another employee that you haven’t checked in with in months, years, ever.
 
+
+---
+
 <!-- Source: WorkHuman Live 2025 Recap: Show People What’s Possible | 2025-05-20 14:30:00 | https://blog.humareso.com/workhuman-live-2025-recap-show-people-whats-possible | workhuman-live-2025-recap-show-people-whats-possible -->
-!Image (13).jpeg)
+.jpeg)
 
 This week, I had the privilege of attending **Workhuman Live 2025**, and I’m walking away with a head full of insights and a heart full of inspiration. The event was a powerful reminder that, in the age of AI, agility, and accelerating change, what truly sets organizations apart is still deeply human: connection, courage, and culture.
 
@@ -147,9 +165,9 @@ One of the most memorable sessions came from author and keynote speaker **Alex B
 
 His three-part framework offers a human-centered way to reframe failure:
 
-* **Reset the system** (go for a walk, take a nap, grab ice cream)
-* **Realign the navigation** (remind yourself *why* you do this work)
-* **Reexamine the engine** (question the story you're telling yourself)
+- **Reset the system** (go for a walk, take a nap, grab ice cream)
+- **Realign the navigation** (remind yourself *why* you do this work)
+- **Reexamine the engine** (question the story you're telling yourself)
 
 The stories we tell ourselves—about our worth, our future, and our potential—shape everything. And in a field like HR, where we’re often the emotional engine of the organization, learning to process rejection with grace and grit is mission-critical.
 
@@ -165,8 +183,11 @@ Implicit messaging—what we *do*, not just what we *say*—has far more power t
 
 The future of work isn’t just about strategy or structure. It’s about storytelling, belonging, recognition, and resilience. So, as I head back to the day-to-day, I’m carrying with me a renewed sense of purpose—and a sticky note on my desk that says: *“Show people what’s possible.”*
 
+
+---
+
 <!-- Source: Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude | 2025-02-18 20:15:21 | https://blog.humareso.com/wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude | wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude -->
-!Humareso Blog Posts-1-Wicked Game
+Humareso Blog Posts-1-Wicked Game
 
 Have you seen that hilarious commercial for the Aunts? Geico has put out some incredible commercials through the years, and this one is no exception. The concept of uninvited houseguests who also happen to be aunts of the homeowners is an approachable setup for the viewer. You may likely have an aunt like that. She comes into the home and comments on everything; it’s like a wicked game for these aunts. Our feelings of inadequacy rise to the surface. Ah, good times. To tap into such emotions, albeit tension and toxicity, brings a shared experience to life. That is the mark of a great commercial. Even though it’s been four years since its initial release, the commercial is still being played currently.
 
@@ -194,5 +215,5 @@ Sources
 - Wicked Game: Toxicity Shouldn't Be the Way to Build Fortitude (2025-02-18 20:15:21) — https://blog.humareso.com/wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude
 - Waiting for a Girl Like You: Is Your Talent About to Leave? (2024-03-26 18:11:08) — https://blog.humareso.com/is-your-talent-about-to-leave
 - Promises, Promises: The Wooing of Candidates (2023-10-05 15:48:25) — https://blog.humareso.com/wooing-candidates
-- I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring (2023-04-04 17:07:09) — https://blog.humareso.com/ithinkitslove
 - Needle in a Haystack: Finding Candidates through Passive Sourcing (2023-08-16 14:15:00) — https://blog.humareso.com/passive-sourcing
+- I Think It’s Love: Planning for More Than an Emotional Organizational Connection During Hiring (2023-04-04 17:07:09) — https://blog.humareso.com/ithinkitslove

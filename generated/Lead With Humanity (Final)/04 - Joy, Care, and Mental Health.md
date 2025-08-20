@@ -1,30 +1,13 @@
 ---
 title: Joy, Care, and Mental Health
 target_words: 6000
-estimated_words: 1299
+estimated_words: 1171
 ---
 
 # Joy, Care, and Mental Health
 
-<!-- Source: You Learn - Blind Repetition Does Not Lead to Skill Development | 2024-10-22 16:00:00 | https://blog.humareso.com/blind-repetition-does-not-lead-to-skill-development | blind-repetition-does-not-lead-to-skill-development -->
-!Humareso Blog Posts-11-Blind Repetition-1We like to mess with things. Joaquin Phoenix delivered a visually stunning, if not uncomfortably magnificent, performance in 2019’s The Joker. He went on to win the Academy Award. His approach to a very well-known villain was fresh, psychologically complex, and disturbingly relatable. And so, what does Hollywood want to do? Capitalize on it with a sequel. Despite the fact that more times than not the original performs better, we press into the popularity of the character(s) and provide a weak storyline hoping to just have people show up out of nostalgia. Think of **Miss Congeniality 2**, **Legally Blonde 2**, **Ace Ventura 2**, any **Planet of the Apes** and more.
-
-The safety in sequels is that the perceived risk is low. The content is shallow, limiting the storyline’s advancement. We think that having Lady Gaga added to a sequel is pushing the envelope, but it’s really a safe risk. She’s a known entity. The stretch isn’t there because the goal isn’t good storytelling; it’s a level of revenue. If a sequel can pull in 70% of the original, it’s a success. Putting something completely new into the market doesn’t usually yield as high a return. There is safety in the risk, but there is not necessarily advancement in any other area.
-
-Work is no different. We like the success of a new account executive. The wins that the person is experiencing in sales becomes a blueprint for what we now want others in the department to do. It’s formulaic, without a depth of understanding as to why it’s working. How many of those wins are, at least in part, due to the personality of the account executive? Are those intangibles of persona influencing such wins? How will that be replicated beyond mirroring?
-
-For all the conversation we’ve had for the last ten years (at least!) regarding skill development and competency advancement, most research still points to the lack of skill advancement as being a direct influencer to an increase in unemployment by the end of Q1 2025. Could it be that we want the safe risk of repetition rather than truly developing skills? Likely so.
-
-What’s the difference? Mimicking is not skill advancement. Development through instruction, practice, coaching, and redirection leads to skill advancement. A distinct plan for individual development is truly building competencies in a contributor. When Lady Gaga joined part two of **The Joker**, the miss is not in her, but rather in the content of the development of the storyline, her character and in the collaboration with the original characters. But what has been discussed is her (it’s not her!).
-
-We are quick to blame, and very often, it is not the process that gets blamed but a person. Just a Lady Gaga became a target for what was wrong with the sequel (whether the lack of story, the lack of acting ability or the odd way she was used, it was Gaga-centric), we lose willing contributors for development when they see organizations devouring their own. It is not likely they will want that kind of heat. “No thanks” while not spoken is the effort offered. Effectively, why be part of the sequel?
-
-Lest you think all sequels are bad, they are not. **The Godfather, Part II** serves as a masterpiece in cinema, a truly remarkable feat considering the original Godfather is epic. The development and deepening of characters and storyline pushed the actors involved to deliver in familiar yet enlarging ways. The value in the original was not merely about its commercial success but in the way it grounded a variety of actors in their craft. They were able to grow, express and evolve in that sequel.
-
-The form is not the goal, but in the developmental, advancing function of multifaceted talent in an emerging story (market). When we merely work on form, we get **The Godfather, Part III**. And I don’t have enough time to talk about that monstrous disappointment…
-
 <!-- Source: Shadow Dancing: Phantom Development Practices Abound | 2024-09-04 13:15:00 | https://blog.humareso.com/phantom-development-practices-abound | phantom-development-practices-abound -->
-!Humareso Blog Posts-9-Shadow DancingHave you been fascinated with having special powers? As a kid comic book enthusiast, I would spend hours reading the adventures of various superheroes. When those stories came to life on the small or big screen, I was front and center (still am, truth be told). Steve Austin, The Six Million Dollar Man, was a stud. He was the world’s first bionic man. For those of a certain age, do you remember this mid-1970’s TV Show intro? “Steve Austin. A man barely alive. Gentlemen, we can rebuild him. We have the technology. We have the capability to build the world’s first bionic man…Steve Austin will be that man. We can make him better than he was before. Better…Stronger…Faster.” YES! I was hooked. He was built to be the best.
+. Steve Austin, The Six Million Dollar Man, was a stud. He was the world’s first bionic man. For those of a certain age, do you remember this mid-1970’s TV Show intro? “Steve Austin. A man barely alive. Gentlemen, we can rebuild him. We have the technology. We have the capability to build the world’s first bionic man…Steve Austin will be that man. We can make him better than he was before. Better…Stronger…Faster.” YES! I was hooked. He was built to be the best.
 
 We may have fallen into a misdirected expectation of such a build for our employees. Obviously, there is no $6,000,000 budget per employee for such development (wouldn’t that be nice?). However, do we expect our employees to behave and produce as if that level of budget has been invested? Now before you shake your head no, think about it. How many times have you thought or said, “Why does {this person} act like this?” or more likely, “What is wrong with {this person}?” Admit it; you have.
 
@@ -40,7 +23,27 @@ For many of us, our organizations are cutting back. Trying to walk into Finance 
 
 
 ---
+
+<!-- Source: You Learn - Blind Repetition Does Not Lead to Skill Development | 2024-10-22 16:00:00 | https://blog.humareso.com/blind-repetition-does-not-lead-to-skill-development | blind-repetition-does-not-lead-to-skill-development -->
+and provide a weak storyline hoping to just have people show up out of nostalgia. Think of **Miss Congeniality 2**, **Legally Blonde 2**, **Ace Ventura 2**, any **Planet of the Apes** and more.
+
+The safety in sequels is that the perceived risk is low. The content is shallow, limiting the storyline’s advancement. We think that having Lady Gaga added to a sequel is pushing the envelope, but it’s really a safe risk. She’s a known entity. The stretch isn’t there because the goal isn’t good storytelling; it’s a level of revenue. If a sequel can pull in 70% of the original, it’s a success. Putting something completely new into the market doesn’t usually yield as high a return. There is safety in the risk, but there is not necessarily advancement in any other area.
+
+Work is no different. We like the success of a new account executive. The wins that the person is experiencing in sales becomes a blueprint for what we now want others in the department to do. It’s formulaic, without a depth of understanding as to why it’s working. How many of those wins are, at least in part, due to the personality of the account executive? Are those intangibles of persona influencing such wins? How will that be replicated beyond mirroring?
+
+For all the conversation we’ve had for the last ten years (at least!) regarding skill development and competency advancement, most research still points to the lack of skill advancement as being a direct influencer to an increase in unemployment by the end of Q1 2025. Could it be that we want the safe risk of repetition rather than truly developing skills? Likely so.
+
+What’s the difference? Mimicking is not skill advancement. Development through instruction, practice, coaching, and redirection leads to skill advancement. A distinct plan for individual development is truly building competencies in a contributor. When Lady Gaga joined part two of **The Joker**, the miss is not in her, but rather in the content of the development of the storyline, her character and in the collaboration with the original characters. But what has been discussed is her (it’s not her!).
+
+We are quick to blame, and very often, it is not the process that gets blamed but a person. Just a Lady Gaga became a target for what was wrong with the sequel (whether the lack of story, the lack of acting ability or the odd way she was used, it was Gaga-centric), we lose willing contributors for development when they see organizations devouring their own. It is not likely they will want that kind of heat. “No thanks” while not spoken is the effort offered. Effectively, why be part of the sequel?
+
+Lest you think all sequels are bad, they are not. **The Godfather, Part II** serves as a masterpiece in cinema, a truly remarkable feat considering the original Godfather is epic. The development and deepening of characters and storyline pushed the actors involved to deliver in familiar yet enlarging ways. The value in the original was not merely about its commercial success but in the way it grounded a variety of actors in their craft. They were able to grow, express and evolve in that sequel.
+
+The form is not the goal, but in the developmental, advancing function of multifaceted talent in an emerging story (market). When we merely work on form, we get **The Godfather, Part III**. And I don’t have enough time to talk about that monstrous disappointment…
+
+
+---
 Sources
 
-- You Learn - Blind Repetition Does Not Lead to Skill Development (2024-10-22 16:00:00) — https://blog.humareso.com/blind-repetition-does-not-lead-to-skill-development
 - Shadow Dancing: Phantom Development Practices Abound (2024-09-04 13:15:00) — https://blog.humareso.com/phantom-development-practices-abound
+- You Learn - Blind Repetition Does Not Lead to Skill Development (2024-10-22 16:00:00) — https://blog.humareso.com/blind-repetition-does-not-lead-to-skill-development

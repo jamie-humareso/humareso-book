@@ -3,7 +3,7 @@ chapters:
     chapter: 1
     title: "Seeing the Person at Work"
     target_words: 6000
-    estimated_words: 7028
+    estimated_words: 6981
     posts:
       - "shake-it-off-when-the-haters-hate-really-hurts"
       - "wicked-game-toxicity-shouldnt-be-the-way-to-build-fortitude"
@@ -20,7 +20,7 @@ chapters:
     chapter: 2
     title: "Leading Without Ego"
     target_words: 6000
-    estimated_words: 4078
+    estimated_words: 4024
     posts:
       - "the-grouch-getting-rid-of-the-curmudgeon-in-you"
       - "is-your-talent-about-to-leave"
@@ -42,10 +42,10 @@ chapters:
     chapter: 4
     title: "Joy, Care, and Mental Health"
     target_words: 6000
-    estimated_words: 1299
+    estimated_words: 1171
     posts:
-      - "blind-repetition-does-not-lead-to-skill-development"
       - "phantom-development-practices-abound"
+      - "blind-repetition-does-not-lead-to-skill-development"
   -
     chapter: 5
     title: "Building Cultures You Can Live In"
